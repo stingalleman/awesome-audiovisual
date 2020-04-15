@@ -19,9 +19,7 @@
 
 ## Tools
 
-### GrandMA
-
-- [TCgenerator](http://tcgenerator.epizy.com/) - Reaper time marker to GrandMA2 TC Generator
+- [TCgenerator](https://github.com/dimitriCGNL/TCGenerator) - Reaper time marker to GrandMA2 TC Generator
 
 ## Contribute
 
