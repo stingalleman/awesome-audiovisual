@@ -108,14 +108,14 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 ## Blogs and other resources
 
+- [Chamsys Programmers and Users facebook group](https://www.facebook.com/groups/chamsys.users/) - The best place to find information about Chamsys consoles and software.
 - [Christian Jackson](https://www.youtube.com/channel/UCdLor-EVzOjOY7OZNXt8eIw) - YouTube channel about concert lighting. Also has great MA tutorials.
+- [Geezers of Gear](https://geezersofgear.libsyn.com/) - Entertainment Production Industry veteran talking about pro-audio, lighting, staging, video + the people and companies who work in this great industry.
 - [@limelightwired](https://www.instagram.com/limelightwired/) - Lighting production community on Instagram.
 - [mikewoodld.com/blog/](https://www.mikewoodld.com/blog/) - Blog of Lighting Designer Mike Wood.
 - [notelek.com/blog/](http://notelek.com/blog/) - LXR Stage Technology Blog.
 - [r/lightingdesign](reddit.com/r/lightingdesign/) - The Reddit community for lighting designers worldwide.
 - [r/techtheatre](reddit.com/r/techtheatre/) - The reddit community for all production designers and technicians!
-- [Chamsys Programmers and Users facebook group](https://www.facebook.com/groups/chamsys.users/) - The best place to find information about Chamsys consoles and software.
-
 
 ## Misc/other
 
