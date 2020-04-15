@@ -22,6 +22,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
   - [ArtNet Libraries](#ArtNet-Libraries)
 - [IP-Audio + IP-Video](#IP-Audio-+-IP-Video)
 - [Blogs and other resources](#Blogs-and-other-resources)
+- [Misc/other][#Misc/other]
 
 ## Lighting
 
@@ -91,6 +92,8 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 - [http://notelek.com/blog/](http://notelek.com/blog/) - LXR Stage Technology Blog
 - [https://www.mikewoodld.com/blog/](https://www.mikewoodld.com/blog/) - Blog of Lighting Designer Mike Wood
+
+## Misc/other
 
 ## Contribute
 

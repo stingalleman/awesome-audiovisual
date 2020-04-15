@@ -10,9 +10,9 @@ Ensure your pull request adheres to the following guidelines:
 
 - Make sure to include a link to the project, and a short description.
 - If it doesn't fit in a existing category, feel free to make a new one.
+- Follow the [Pull Request template](https://github.com/stingalleman/awesome-audiovisual/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 
 Thank you for your suggestions!
-
 
 ## Updating your PR
 
