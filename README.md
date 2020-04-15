@@ -7,7 +7,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ## Contents
 
-- [Lighting](#Tools)
+- [Lighting](#Lighting)
   - [Lighting Software](#Lighting-Software)
 - [Video](#Video)
   - [Playout And Switching](#Playout-And-Switching)
