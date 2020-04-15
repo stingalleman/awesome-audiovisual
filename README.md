@@ -2,33 +2,25 @@
 
 > Curated list of awesome audiovisual projects
 
-
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Libraries](#Libraries)
+  - [ArtNet libraries](#ArtNet)
 
+## Libraries
 
-## Section
+- [node-dmx](https://github.com/node-dmx/dmx) - DMX controller library for node.js
 
-About this section. Optional. Keep this short and focus on the list.
+### Artnet
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+Artnet libraries
 
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- [artnet4j](https://github.com/cansik/artnet4j) - Art-Net DMX over IP library for Java and Processing
+- [artnet](https://github.com/hobbyquaker/artnet) - Node.js module that can be used to send ArtDMX packages to an Art-Net node.
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
