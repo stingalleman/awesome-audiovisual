@@ -13,8 +13,6 @@
 
 ### Artnet
 
-Artnet libraries
-
 - [artnet4j](https://github.com/cansik/artnet4j) - Art-Net DMX over IP library for Java and Processing
 - [artnet](https://github.com/hobbyquaker/artnet) - Node.js module that can be used to send ArtDMX packages to an Art-Net node.
 
