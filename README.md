@@ -12,7 +12,7 @@
 - [Tools](#Tools)
   - [Timecode](#Timecode)
 - [Libraries](#Libraries)
-  -[ArtNet Libraries](#ArtNet-Libraries)
+  - [ArtNet Libraries](#ArtNet-Libraries)
 - [Blogs](#Blogs)
 
 - [Contribute](#Contribute)
