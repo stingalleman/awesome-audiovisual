@@ -3,19 +3,19 @@
 
 > Curated list of awesome audiovisual projects
 
+Want to add something? Just make a pull request, but be sure to follow the [contributing guidelines!](./contributing.md)
+
 ## Contents
 
 - [Lighting](#Tools)
-- [Lighting Software](#Lighting-Software)
+  - [Lighting Software](#Lighting-Software)
 - [Video](#Video)
-- [Video Tools](#Video-Tools)
+  - [Video Tools](#Video-Tools)
 - [Tools](#Tools)
-- [Timecode](#Timecode)
+  - [Timecode](#Timecode)
 - [Libraries](#Libraries)
-- [ArtNet Libraries](#ArtNet-Libraries)
+  - [ArtNet Libraries](#ArtNet-Libraries)
 - [Blogs](#Blogs)
-- [Contribute](#Contribute)
-- [License](#License)
 
 ## Lighting
 
