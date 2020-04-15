@@ -10,6 +10,8 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 - [Lighting](#Lighting)
   - [Lighting Software](#Lighting-Software)
+- [Audio](#Audio)
+  - [Audio tools](#Audio-tools)
 - [Video](#Video)
   - [Playout And Switching](#Playout-And-Switching)
   - [Control and Orchestration](#Control-and-Orchestration)
@@ -36,6 +38,11 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc.
 - [Chamsys MagicQ](https://chamsyslighting.com/) - MagiQ is a professional lighting software providing up to 64 Artnet universes for free. It includes powerful features like 2D/3D pixel mapping, effect generator, media server and visualizer.
 
+## Audio
+
+### Audio tools
+
+- [REW](https://www.roomeqwizard.com/) - REW is free room acoustics analysis software for measuring and analysing room and loudspeaker responses. Free SMAART alternative.
 
 ## Video
 
