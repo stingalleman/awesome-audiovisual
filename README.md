@@ -35,7 +35,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ### Playout And Switching
 
-- [CasperCG](https://github.com/CasparCG) - [CasparCG](https://casparcg.com/) Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor.
+- [CasperCG](https://github.com/CasparCG) - CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor.
 - [CasparCL](https://github.com/Streampunk/casparcl) - Implementing the features of CasparCG with Node.JS and OpenCL.
 - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording
 
