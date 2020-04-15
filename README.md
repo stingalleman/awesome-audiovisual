@@ -16,6 +16,12 @@
 - [artnet4j](https://github.com/cansik/artnet4j) - Art-Net DMX over IP library for Java and Processing
 - [artnet](https://github.com/hobbyquaker/artnet) - Node.js module that can be used to send ArtDMX packages to an Art-Net node.
 
+## Tools
+
+### GrandMA
+
+- [TCgenerator](http://tcgenerator.epizy.com/) - Reaper time marker to GrandMA2 TC Generator
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
