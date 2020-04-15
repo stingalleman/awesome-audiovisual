@@ -57,9 +57,9 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 ## Tools
 
+- [GMA2 Colour picker tutorial](https://www.youtube.com/watch?v=lhYDUzWKz3M) - a tutorial for how to add a colour picker in GrandMa2
 - [Livescript](https://github.com/Netlob/livescript) - Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site
 - [StageClock](http://notelek.com/StageClock/) - StageClock is a Java based graphical timekeeping application. It outputs a clean feed from an attached monitor, and has time/date, timer, and show information.
-- [GMA2 Colour picker tutorial](https://www.youtube.com/watch?v=lhYDUzWKz3M) - a tutorial for how to add a colour picker in GrandMa2
 
 ### Timecode
 
