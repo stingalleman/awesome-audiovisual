@@ -8,9 +8,8 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Make sure to include a link to the project, and a short description.
+- If it doesn't fit in a existing category, feel free to make a new one.
 
 Thank you for your suggestions!
 
