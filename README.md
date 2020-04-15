@@ -4,7 +4,7 @@
 > Curated list of awesome audiovisual projects
 
 Want to add something? Just make a pull request, but be sure to follow the [contributing guidelines!](./contributing.md) (Also, if you don't have a github account, feel free to [email me.](mailto:stingalleman@icloud.com?subject=Awesome-Audiovisual%20contribution))
-Question? Leave it in the [General Discussion issue.](#2)
+Question? Leave it in the [General Discussion issue.](https://github.com/stingalleman/awesome-audiovisual/issues/2)
 
 ## Contents
 
