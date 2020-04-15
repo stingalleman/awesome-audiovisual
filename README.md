@@ -34,6 +34,8 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/) - Free, offline software for the GrandMA2 lighting console. Inclused GrandMA2 OnPC and MA3D.
 - [GrandMA3 software](https://www.malighting.com/downloads/products/grandma3/) - Free, offline software for the **new** GrandMA3 lighting console. Inclused GrandMA3 OnPC.
 - [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc.
+- [Chamsys MagicQ](https://chamsyslighting.com/) - MagiQ is a professional lighting software providing up to 64 Artnet universes for free. It includes powerful features like 2D/3D pixel mapping, effect generator, media server and visualizer.
+
 
 ## Video
 
@@ -66,6 +68,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 - [TCgenerator](https://github.com/dimitriCGNL/TCGenerator) - Reaper time marker to GrandMA2 TC Generator
 - [Timecode](https://github.com/MrExplode/Timecode) - ArtNet and LTC timecode generator, made with Java.
+- [M2Q](https://github.com/lorenzofattori/M2Q) - Python application capable to trigger Chamsys Consoles/Software via MIDI for advanced synchronized shows.
 
 ### Monitoring
 
@@ -103,6 +106,8 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [notelek.com/blog/](http://notelek.com/blog/) - LXR Stage Technology Blog.
 - [r/lightingdesign](reddit.com/r/lightingdesign/) - The Reddit community for lighting designers worldwide.
 - [r/techtheatre](reddit.com/r/techtheatre/) - The reddit community for all production designers and technicians!
+- [Chamsys Programmers and Users facebook group](https://www.facebook.com/groups/chamsys.users/) - The best place to find information about Chamsys consoles and software.
+
 
 ## Misc/other
 
