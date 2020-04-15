@@ -89,6 +89,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 ## Blogs and other resources
 
+- [Christian Jackson](https://www.youtube.com/channel/UCdLor-EVzOjOY7OZNXt8eIw) - YouTube channel about concert lighting and MA.
 - [mikewoodld.com/blog/](https://www.mikewoodld.com/blog/) - Blog of Lighting Designer Mike Wood
 - [notelek.com/blog/](http://notelek.com/blog/) - LXR Stage Technology Blog
 
