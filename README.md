@@ -3,7 +3,7 @@
 
 > Curated list of awesome audiovisual projects
 
-Want to add something? Just make a pull request, but be sure to follow the [contributing guidelines!](./contributing.md) (Also, if you don't have a github account, feel free to [email me.]())
+Want to add something? Just make a pull request, but be sure to follow the [contributing guidelines!](./contributing.md) (Also, if you don't have a github account, feel free to [email me.](mailto:stingalleman@icloud.com?subject=Awesome-Audiovisual%20contribution))
 
 ## Contents
 
