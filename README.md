@@ -22,23 +22,23 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
   - [ArtNet Libraries](#ArtNet-Libraries)
 - [IP-Audio + IP-Video](#IP-Audio-+-IP-Video)
 - [Blogs and other resources](#Blogs-and-other-resources)
-- [Misc/other][#Misc/other]
+- [Misc/other](#Misc/other)
 
 ## Lighting
 
 ### Lighting Software
 
+- [Dot2 software](https://www.malighting.com/downloads/products/dot2/) - Free, offline software for the Dot2 consoles. Inclused Dot2 onPC and Dot2 3D.
 - [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/) - Free, offline software for the GrandMA2 lighting console. Inclused GrandMA2 OnPC and MA3D.
 - [GrandMA3 software](https://www.malighting.com/downloads/products/grandma3/) - Free, offline software for the **new** GrandMA3 lighting console. Inclused GrandMA3 OnPC.
-- [Dot2 software](https://www.malighting.com/downloads/products/dot2/) - Free, offline software for the Dot2 consoles. Inclused Dot2 onPC and Dot2 3D.
 - [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc.
 
 ## Video
 
 ### Playout And Switching
 
-- [CasperCG](https://github.com/CasparCG) - CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor.
 - [CasparCL](https://github.com/Streampunk/casparcl) - Implementing the features of CasparCG with Node.JS and OpenCL.
+- [CasperCG](https://github.com/CasparCG) - CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor.
 - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording
 
 ### Control and Orchestration
@@ -76,22 +76,21 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 ### ArtNet Libraries
 
-- [artnet4j](https://github.com/cansik/artnet4j) - Art-Net DMX over IP library for Java and Processing
-
 - [artnet](https://github.com/hobbyquaker/artnet) - Node.js module that can be used to send ArtDMX packages to an Art-Net node.
+- [artnet4j](https://github.com/cansik/artnet4j) - Art-Net DMX over IP library for Java and Processing
 
 ## IP-Audio + IP-Video
 
 - [AES67 Linux Daemon](https://github.com/bondagit/aes67-linux-daemon) - AES67 Linux Daemon is a Linux implementation of AES67 interoperability standard used to distribute and synchronize real time audio over Ethernet.
-- [SAP Receiver](https://github.com/jonasohland/sap-receiver) - Receive and store SDPs for AES67 SAP announcements
-- [ST-2110 software toolkit](https://github.com/pkeroulas/st2110-toolkit) - This toolkit provides scripts and config to test, monitor and transcode SMPTE ST 2110 streams
 - [AES67 SAP nmos gateway](https://github.com/yboujraf/AES67_SAP_nmos_gateway) - An NMOS IS-04 implementation built around discovering AES67 streams announced with SAP (dante devices in AES67 mode).
 - [OBS-ndi](https://github.com/Palakis/obs-ndi) - Network A/V in OBS Studio with NewTek's NDI technology.
+- [SAP Receiver](https://github.com/jonasohland/sap-receiver) - Receive and store SDPs for AES67 SAP announcements
+- [ST-2110 software toolkit](https://github.com/pkeroulas/st2110-toolkit) - This toolkit provides scripts and config to test, monitor and transcode SMPTE ST 2110 streams
 
 ## Blogs and other resources
 
-- [http://notelek.com/blog/](http://notelek.com/blog/) - LXR Stage Technology Blog
-- [https://www.mikewoodld.com/blog/](https://www.mikewoodld.com/blog/) - Blog of Lighting Designer Mike Wood
+- [mikewoodld.com/blog/](https://www.mikewoodld.com/blog/) - Blog of Lighting Designer Mike Wood
+- [notelek.com/blog/](http://notelek.com/blog/) - LXR Stage Technology Blog
 
 ## Misc/other
 
