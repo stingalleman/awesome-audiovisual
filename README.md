@@ -6,6 +6,7 @@
 
 - [Libraries](#Libraries)
   - [ArtNet libraries](#ArtNet)
+- [Tools](#Tools)
 
 ## Libraries
 
