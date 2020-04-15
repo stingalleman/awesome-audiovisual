@@ -89,15 +89,15 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 ## Blogs and other resources
 
-- [Christian Jackson](https://www.youtube.com/channel/UCdLor-EVzOjOY7OZNXt8eIw) - YouTube channel about concert lighting and MA.
+- [Christian Jackson](https://www.youtube.com/channel/UCdLor-EVzOjOY7OZNXt8eIw) - YouTube channel about concert lighting. Also has great MA tutorials.
 - [@limelightwired](https://www.instagram.com/limelightwired/) - Lighting production community on Instagram.
-- [mikewoodld.com/blog/](https://www.mikewoodld.com/blog/) - Blog of Lighting Designer Mike Wood
-- [notelek.com/blog/](http://notelek.com/blog/) - LXR Stage Technology Blog
+- [mikewoodld.com/blog/](https://www.mikewoodld.com/blog/) - Blog of Lighting Designer Mike Wood.
+- [notelek.com/blog/](http://notelek.com/blog/) - LXR Stage Technology Blog.
 
 ## Tutorials
 
 ### GrandMA2 tutorials
-- [GMA2 Colour picker tutorial](https://www.youtube.com/watch?v=lhYDUzWKz3M) - a tutorial for how to add a colour picker in GrandMa2
+- [GMA2 colour picker tutorial](https://www.youtube.com/watch?v=lhYDUzWKz3M) - a tutorial for how to add a colour picker in GrandMA2
 
 ## Misc/other
 
