@@ -3,7 +3,7 @@
 
 > Curated list of awesome audiovisual projects
 
-Want to add something? Just make a pull request, but be sure to follow the [contributing guidelines!](./contributing.md)
+Want to add something? Just make a pull request, but be sure to follow the [contributing guidelines!](./contributing.md) (Also, if you don't have a github account, feel free to [email me.]())
 
 ## Contents
 
@@ -31,6 +31,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 ### Video tools
 
 - [OBS-VirtualCam](https://github.com/CatxFish/obs-virtual-cam) - OBS-VirtualCam is a plugin for obs-studio , transforming the output video to a virtual directshow device.
+- [StreamSizeCalculator](https://github.com/fschoett/2110-20-stream-size-calculator) - This is a tool to calculate network requirements for streaming 2110-20 video.
 
 ## Tools
 
