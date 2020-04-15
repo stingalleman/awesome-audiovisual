@@ -92,6 +92,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 ## Tutorials
 
 ### GrandMA2 tutorials
+
 - [GMA2 colour picker tutorial](https://www.youtube.com/watch?v=lhYDUzWKz3M) - a tutorial for how to add a colour picker in GrandMA2
 
 ## Blogs and other resources
@@ -105,7 +106,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 ## Misc/other
 
-- [tonsofpcs/gvg110](https://github.com/tonsofpcs/gvg110) 
+- [tonsofpcs/gvg110](https://github.com/tonsofpcs/gvg110)
 
 ## Contribute
 
