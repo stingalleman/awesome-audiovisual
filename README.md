@@ -87,17 +87,19 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [SAP Receiver](https://github.com/jonasohland/sap-receiver) - Receive and store SDPs for AES67 SAP announcements
 - [ST-2110 software toolkit](https://github.com/pkeroulas/st2110-toolkit) - This toolkit provides scripts and config to test, monitor and transcode SMPTE ST 2110 streams
 
+## Tutorials
+
+### GrandMA2 tutorials
+- [GMA2 colour picker tutorial](https://www.youtube.com/watch?v=lhYDUzWKz3M) - a tutorial for how to add a colour picker in GrandMA2
+
 ## Blogs and other resources
 
 - [Christian Jackson](https://www.youtube.com/channel/UCdLor-EVzOjOY7OZNXt8eIw) - YouTube channel about concert lighting. Also has great MA tutorials.
 - [@limelightwired](https://www.instagram.com/limelightwired/) - Lighting production community on Instagram.
 - [mikewoodld.com/blog/](https://www.mikewoodld.com/blog/) - Blog of Lighting Designer Mike Wood.
 - [notelek.com/blog/](http://notelek.com/blog/) - LXR Stage Technology Blog.
-
-## Tutorials
-
-### GrandMA2 tutorials
-- [GMA2 colour picker tutorial](https://www.youtube.com/watch?v=lhYDUzWKz3M) - a tutorial for how to add a colour picker in GrandMA2
+- [r/lightingdesign](reddit.com/r/lightingdesign/) - The Reddit community for lighting designers worldwide.
+- [r/techtheatre](reddit.com/r/techtheatre/) - The reddit community for all production designers and technicians!
 
 ## Misc/other
 
