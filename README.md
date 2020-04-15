@@ -34,6 +34,8 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/) - Free, offline software for the GrandMA2 lighting console. Inclused GrandMA2 OnPC and MA3D.
 - [GrandMA3 software](https://www.malighting.com/downloads/products/grandma3/) - Free, offline software for the **new** GrandMA3 lighting console. Inclused GrandMA3 OnPC.
 - [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc.
+- [Chamsys MagicQ](https://chamsyslighting.com/) - MagiQ is a professional lighting software providing up to 64 Artnet universes for free. It includes powerful features like 2D/3D pixel mapping, effect generator, media server and visualizer.
+
 
 ## Video
 
