@@ -21,6 +21,8 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [Libraries](#Libraries)
   - [ArtNet Libraries](#ArtNet-Libraries)
 - [IP-Audio + IP-Video](#IP-Audio-+-IP-Video)
+- [Tutorials](#Tutorials)
+  - [GrandMA2 tutorials](#GrandMA2-tutorials)
 - [Blogs and other resources](#Blogs-and-other-resources)
 - [Misc/other](#Misc/other)
 
