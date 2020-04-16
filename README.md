@@ -14,8 +14,9 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
   - [Audio Software](#Audio-Software)
   - [Audio tools](#Audio-tools)
 - [Video](#Video)
-  - [Playout And Switching](#Playout-And-Switching)
-  - [Control and Orchestration](#Control-and-Orchestration)
+  - [Video Software](#Video-Software)
+    - [Playout And Switching](#Playout-And-Switching)
+    - [Control and Orchestration](#Control-and-Orchestration)
   - [Protocols](#Protocols)
   - [Video Tools](#Video-Tools)
 - [Tools](#Tools)
@@ -60,14 +61,18 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 ## Video
 
-### Playout And Switching
+### Video Software
+
+- [Blender](https://www.blender.org/) - Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.
+
+#### Playout And Switching
 
 - [CasparCL](https://github.com/Streampunk/casparcl) - Implementing the features of CasparCG with Node.JS and OpenCL.
 - [CasperCG](https://github.com/CasparCG) - CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor.
 - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording
 - [VLC Media Player](https://www.videolan.org/vlc/index.html) - Simple to use video player packed with features and plays almost every file type with no need to install codecs.
 
-### Control and Orchestration
+#### Control and Orchestration
 
 - [Bitfocus Companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment.
 - [Director](https://github.com/borealsystems/Director) - Facility scale media orchestration and automation.
@@ -143,6 +148,7 @@ See [HARDWARE.md](./HARDWARE.md)
 
 ## Misc/other
 
+- [Blender ArtNet](https://github.com/BryanCrotaz/blender-artnet) - Blender script to push ArtNet data to Evee lights. Runs at 30fps with Evee rendering in the viewport.
 - [Linux](https://en.wikipedia.org/wiki/Linux) - A free operating system that can run on pretty much every kind of computer and is great for breathing new life into old computers that aren't supported by the newer Windows editions. There's tons of different distributions to choose from, each have their own benefits and drawbacks. The most common one for general computer stuff is [Ubuntu](https://ubuntu.com/).
 - [tonsofpcs/gvg110](https://github.com/tonsofpcs/gvg110)
 
