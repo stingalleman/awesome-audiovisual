@@ -11,6 +11,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [Lighting](#Lighting)
   - [Lighting Software](#Lighting-Software)
 - [Audio](#Audio)
+  - [Audio Software](#Audio-Software)
   - [Audio tools](#Audio-tools)
 - [Video](#Video)
   - [Playout And Switching](#Playout-And-Switching)
@@ -22,10 +23,12 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
   - [Monitoring](#Monitoring)
 - [Libraries](#Libraries)
   - [ArtNet Libraries](#ArtNet-Libraries)
+- [Hardware](#Hardware)
 - [IP-Audio + IP-Video](#IP-Audio-+-IP-Video)
 - [Tutorials](#Tutorials)
   - [GrandMA2 tutorials](#GrandMA2-tutorials)
 - [Blogs and other resources](#Blogs-and-other-resources)
+- [Graphics](#Graphics)
 - [Misc/other](#Misc/other)
 
 ## Lighting
@@ -38,8 +41,16 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [GrandMA3 software](https://www.malighting.com/downloads/products/grandma3/) - Free, offline software for the **new** GrandMA3 lighting console. Inclused GrandMA3 OnPC.
 - [Open Lighting Architecture](https://www.openlighting.org/ola/) - A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices.
 - [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc.
+- [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget.
 
 ## Audio
+
+### Audio Software
+
+- [Audacity](https://www.audacityteam.org/) - Audio file editor and analysis tool, great for cropping down sound effects and music tracks.
+- [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite
+- [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions. 
+- [QLab](https://qlab.app/) - QLab is sound, video, and lighting control for macOS.
 
 ### Audio tools
 
@@ -52,6 +63,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [CasparCL](https://github.com/Streampunk/casparcl) - Implementing the features of CasparCG with Node.JS and OpenCL.
 - [CasperCG](https://github.com/CasparCG) - CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor.
 - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording
+- [VLC Media Player](https://www.videolan.org/vlc/index.html) - Simple to use video player packed with features and plays almost every file type with no need to install codecs.
 
 ### Control and Orchestration
 
@@ -92,6 +104,10 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [artnet](https://github.com/hobbyquaker/artnet) - Node.js module that can be used to send ArtDMX packages to an Art-Net node.
 - [artnet4j](https://github.com/cansik/artnet4j) - Art-Net DMX over IP library for Java and Processing
 
+## Hardware
+
+See [HARDWARE.md](./HARDWARE.md)
+
 ## IP-Audio + IP-Video
 
 - [AES67 Linux Daemon](https://github.com/bondagit/aes67-linux-daemon) - AES67 Linux Daemon is a Linux implementation of AES67 interoperability standard used to distribute and synchronize real time audio over Ethernet.
@@ -114,11 +130,18 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [@limelightwired](https://www.instagram.com/limelightwired/) - Lighting production community on Instagram.
 - [mikewoodld.com/blog/](https://www.mikewoodld.com/blog/) - Blog of Lighting Designer Mike Wood.
 - [notelek.com/blog/](http://notelek.com/blog/) - LXR Stage Technology Blog.
-- [r/lightingdesign](reddit.com/r/lightingdesign/) - The Reddit community for lighting designers worldwide.
-- [r/techtheatre](reddit.com/r/techtheatre/) - The reddit community for all production designers and technicians!
+- [QLab Cookbook](https://qlab.app/cookbook/) - The cookbook is a collection of projects, examples, and experiments using a broad range of QLab programming techniques including AppleScript, OSC, external control using QLab Remote, third-party MIDI and OSC controllers, and other software.
+- [/r/lightingdesign](reddit.com/r/lightingdesign/) - The Reddit community for lighting designers worldwide.
+- [/r/techtheatre](reddit.com/r/techtheatre/) - The reddit community for all production designers and technicians!
+
+## Graphics
+
+- [GIMP](https://www.gimp.org/) - GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems.
+- [Inkscape](https://inkscape.org/) - Inkscape is a professional vector graphics editor for Linux, Windows and macOS.
 
 ## Misc/other
 
+- [Linux](https://en.wikipedia.org/wiki/Linux) - a free operating system that can run on pretty much every kind of computer and is great for breathing new life into old computers that aren't supported by the newer Windows editions. There's tons of different distributions to choose from, each have their own benefits and drawbacks. The most common one for general computer stuff is [Ubuntu](https://ubuntu.com/).
 - [tonsofpcs/gvg110](https://github.com/tonsofpcs/gvg110)
 
 ## Contribute
