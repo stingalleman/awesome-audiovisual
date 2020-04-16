@@ -141,7 +141,7 @@ See [HARDWARE.md](./HARDWARE.md)
 
 ## Misc/other
 
-- [Linux](https://en.wikipedia.org/wiki/Linux) - a free operating system that can run on pretty much every kind of computer and is great for breathing new life into old computers that aren't supported by the newer Windows editions. There's tons of different distributions to choose from, each have their own benefits and drawbacks. The most common one for general computer stuff is [Ubuntu](https://ubuntu.com/).
+- [Linux](https://en.wikipedia.org/wiki/Linux) - A free operating system that can run on pretty much every kind of computer and is great for breathing new life into old computers that aren't supported by the newer Windows editions. There's tons of different distributions to choose from, each have their own benefits and drawbacks. The most common one for general computer stuff is [Ubuntu](https://ubuntu.com/).
 - [tonsofpcs/gvg110](https://github.com/tonsofpcs/gvg110)
 
 ## Contribute
