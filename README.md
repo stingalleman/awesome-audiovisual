@@ -49,7 +49,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 - [Audacity](https://www.audacityteam.org/) - Audio file editor and analysis tool, great for cropping down sound effects and music tracks.
 - [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite
-- [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions. 
+- [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions.
 - [QLab](https://qlab.app/) - QLab is sound, video, and lighting control for macOS.
 
 ### Audio tools
