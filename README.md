@@ -49,8 +49,10 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 - [Audacity](https://www.audacityteam.org/) - Audio file editor and analysis tool, great for cropping down sound effects and music tracks.
 - [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite
+- [da-Share MultiPlay](https://www.da-share.com/software/multiplay/) - MultiPlay is a Windows based program designed to play audio cues for theatre or corporate use. It is free to use.
 - [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions.
 - [QLab](https://qlab.app/) - QLab is sound, video, and lighting control for macOS.
+- [REAPER](https://www.reaper.fm/) - REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset. 
 
 ### Audio tools
 
