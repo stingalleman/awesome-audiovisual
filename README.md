@@ -36,6 +36,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 ### Lighting Software
 
+- [Avolites Titan](https://www.avolites.com/software/downloads/titan-pc-suite) - PC version of the Titan software which runs on the Avolites desk. Free to use until version 11.4 although it spits out random data once in a while. Requires a dongle from version 12
 - [Chamsys MagicQ](https://chamsyslighting.com/) - MagiQ is a professional lighting software providing up to 64 Artnet universes for free. It includes powerful features like 2D/3D pixel mapping, effect generator, media server and visualizer.
 - [Dot2 software](https://www.malighting.com/downloads/products/dot2/) - Free, offline software for the Dot2 consoles. Inclused Dot2 onPC and Dot2 3D.
 - [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/) - Free, offline software for the GrandMA2 lighting console. Inclused GrandMA2 OnPC and MA3D.
@@ -53,10 +54,11 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [da-Share MultiPlay](https://www.da-share.com/software/multiplay/) - MultiPlay is a Windows based program designed to play audio cues for theatre or corporate use. It is free to use.
 - [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions.
 - [QLab](https://qlab.app/) - QLab is sound, video, and lighting control for macOS.
-- [REAPER](https://www.reaper.fm/) - REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset. 
+- [REAPER](https://www.reaper.fm/) - REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.
 
 ### Audio tools
 
+- [ARTA](http://www.artalabs.hr/) - A collection of programs for audio measurements and analysis
 - [REW](https://www.roomeqwizard.com/) - REW is free room acoustics analysis software for measuring and analysing room and loudspeaker responses. Free SMAART alternative.
 
 ## Video
@@ -149,7 +151,9 @@ See [HARDWARE.md](./HARDWARE.md)
 ## Misc/other
 
 - [Blender ArtNet](https://github.com/BryanCrotaz/blender-artnet) - Blender script to push ArtNet data to Evee lights. Runs at 30fps with Evee rendering in the viewport.
-- [Linux](https://en.wikipedia.org/wiki/Linux) - A free operating system that can run on pretty much every kind of computer and is great for breathing new life into old computers that aren't supported by the newer Windows editions. There's tons of different distributions to choose from, each have their own benefits and drawbacks. The most common one for general computer stuff is [Ubuntu](https://ubuntu.com/).
+- [Linux](https://en.wikipedia.org/wiki/Linux) - A free operating system that can run on pretty much every kind of computer and is great for breathing new life into old computers that aren't supported by the newer Windows editions. There's tons of different distributions to choose from, each have their own benefits and drawbacks. The most common one for general computer stuff is
+[Ubuntu](https://ubuntu.com/).
+- [MIDI Monster](https://github.com/cbdevnet/midimonster/) - MIDIMonster is a universal control and translation tool. It can translate between many different protocols such as MIDI, Artnet, sACN and OSC.
 - [tonsofpcs/gvg110](https://github.com/tonsofpcs/gvg110)
 
 ## Contribute
