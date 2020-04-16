@@ -101,8 +101,11 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 ### Monitoring
 
+## Audio Monitoring
+
 - [AES67 WebMeter](https://github.com/zjstraus/AES67-WebMeter) - Server that receives an AES67 audio stream and presents a webpage with meters
 - [meters.lv2](https://github.com/x42/meters.lv2) - meters.lv2 is a collection of audio-level meters with GUI in LV2 plugin format.
+- [Open Sound Meter](https://opensoundmeter.com/) - Clean, open-source sound meter. Supports RTA, magnitude, phase and impulse response, coherence, group delay and more.
 
 ## Libraries
 
