@@ -10,6 +10,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 - [Lighting](#Lighting)
   - [Lighting Software](#Lighting-Software)
+  - [Visualizers](#Visualizers)
 - [Audio](#Audio)
   - [Audio Software](#Audio-Software)
   - [Audio tools](#Audio-tools)
