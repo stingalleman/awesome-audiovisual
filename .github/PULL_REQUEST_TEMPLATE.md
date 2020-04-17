@@ -1,19 +1,18 @@
-Thank you for taking the time to work on a PR for awesome-audiovisual!
+Thank you for taking the time to work on a pull request for awesome-audiovisual!
 
 To ensure your PR is dealt with swiftly please check the following:
 
 - [ ] Your submissions are formatted according to the following requirements:
-        
-``- [Name](http://homepage/) - Short description, less than 250 characters. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code), [Clients](https://url.to/list/of/related/clients-or-apps)) `License` `Language` ``
 
-Depends on proprietary services:
+``- [Name](http://homepage/) - Short description, less than 250 characters. `Language` ``
 
-``- [Name](http://homepage/) `⚠` - Short description, less than 250 characters. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code), [Clients](https://url.to/list/of/related/clients-or-apps)) `License` `Language` ``
+Non free contributions
 
-Non-free software in `non-free.md`:
+``- [Name](http://homepage/) - `⚠ not free` Short description, less than 250 characters. `Language` ``
 
-``- [Name](http://homepage/) `⊘ Proprietary` - Short description, less than 250 characters. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code), [Clients](https://url.to/list/of/related/clients-or-apps)) `Language` ``
+Open-source contributions
 
+``- [Name](http://homepage/) - `✓ open-source` Short description, less than 250 characters. `Language` ((Source Code)[http://source-code]``
 
 - [ ] Your additions are ordered alphabetically.
 - [ ] If your additions depend on proprietary services outside the user's control, they must be marked `⚠`.

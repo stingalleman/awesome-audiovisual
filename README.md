@@ -120,12 +120,12 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 ## Libraries
 
-- [node-dmx](https://github.com/node-dmx/dmx) - DMX controller library for node.js
+- [node-dmx](https://github.com/node-dmx/dmx) - DMX controller library for Node.js `nodejs`
 
 ### ArtNet Libraries
 
-- [artnet](https://github.com/hobbyquaker/artnet) - Node.js module that can be used to send ArtDMX packages to an Art-Net node.
-- [artnet4j](https://github.com/cansik/artnet4j) - Art-Net DMX over IP library for Java and Processing
+- [artnet](https://github.com/hobbyquaker/artnet) - Node.js module that can be used to send ArtDMX packages to an Art-Net node. `nodejs`
+- [artnet4j](https://github.com/cansik/artnet4j) - Art-Net DMX over IP library for Java and Processing `java`
 
 ## Hardware
 
