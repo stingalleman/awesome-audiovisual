@@ -14,4 +14,4 @@
 
 ### Lighting
 
-- [Enttec DMX USB Controllers](https://www.enttec.co.uk/en/range/controls/dmx-usb-interfaces/) - DMX to USB adaptars. Cheap and expensive.
+- [Enttec DMX USB Controllers](https://www.enttec.co.uk/en/range/controls/dmx-usb-interfaces/) - DMX to USB adaptars. Available for cheap and expensive.

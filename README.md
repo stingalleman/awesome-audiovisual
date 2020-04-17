@@ -43,8 +43,8 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [Chamsys MagicQ](https://chamsyslighting.com/) - MagiQ is a professional lighting software providing up to 64 Artnet universes for free. It includes powerful features like 2D/3D pixel mapping, effect generator, media server and visualizer.
 - [Depence²](https://www.syncronorm.com/products/depence2/overview/) - `⚠ not free` Depence² is a unique application, which combines the design and visualization process with the potential to control the real show.
 - [Dot2 software](https://www.malighting.com/downloads/products/dot2/) - Free, offline software for the Dot2 consoles. Includes Dot2 onPC and Dot2 3D.
-- [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/) - Free, offline software for the GrandMA2 lighting console. Includes GrandMA2 OnPC and MA3D. Does not output DMX for free.
-- [GrandMA3 software](https://www.malighting.com/downloads/products/grandma3/) - Free, offline software for the **new** GrandMA3 lighting console. Includes GrandMA3 OnPC. Does not output DMX for free.
+- [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/) - `⚠ freemium` Free, offline software for the GrandMA2 lighting console. Includes GrandMA2 OnPC and MA3D. Does not output DMX for free.
+- [GrandMA3 software](https://www.malighting.com/downloads/products/grandma3/) - `⚠ freemium` Free, offline software for the **new** GrandMA3 lighting console. Includes GrandMA3 OnPC. Does not output DMX for free.
 - [ONYX](https://obsidiancontrol.com/onyx-technologies) - Modern lighting control system with alot of features.
 - [Open Lighting Architecture](https://www.openlighting.org/ola/) - A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices.
 - [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc.
@@ -172,6 +172,7 @@ See [HARDWARE.md](./HARDWARE.md)
 [Ubuntu](https://ubuntu.com/).
 - [MIDI Monster](https://github.com/cbdevnet/midimonster/) - `✓ open-source` MIDIMonster is a universal control and translation tool. It can translate between many different protocols such as MIDI, Artnet, sACN and OSC.
 - [tonsofpcs/gvg110](https://github.com/tonsofpcs/gvg110)
+- [UsedLighting](https://www.usedlighting.com/) - Marketplace for buying/selling used lighting hardware.
 
 ## Contribute
 
