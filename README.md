@@ -18,9 +18,11 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
   - [Video Software](#Video-Software)
     - [Playout And Switching](#Playout-And-Switching)
     - [Control and Orchestration](#Control-and-Orchestration)
+  - [Projection Mapping](#Projection-Mapping)
   - [Protocols](#Protocols)
   - [Video Tools](#Video-Tools)
 - [Tools](#Tools)
+  - [CADs](#CADs)
   - [Timecode](#Timecode)
   - [Monitoring](#Monitoring)
     - [Audio Monitoring](#Audio-Monitoring)
@@ -97,6 +99,14 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [Bitfocus Companion](https://bitfocus.io/companion/) - `✓ open-source` Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment. [Source Code](https://github.com/bitfocus/companion)
 - [Director](https://github.com/borealsystems/Director) - `✓ open-source` Facility scale media orchestration and automation.
 
+### Projection Mapping
+
+- [Catalyst](http://www.catalyst-v5.com/) - `⚠ not free` Catalyst software is an image processing system that provides the facilities to control and manipulate high resolution (HD & 4K) movies, live camera, or images for playback through any number of video projection or LED screen devices.
+- [Lightform](https://lightform.com/) - `⚠ not free` AR-enabled projection beamers.
+- [Resolume Arena Media Server](https://resolume.com/) - `⚠ not free` Arena has everything Avenue has, plus advanced options for projection mapping and blending projectors. Control it from a lighting desk and sync to the DJ via SMPTE timecode.
+- [Resolume Resolume Avenue VJ Software](https://resolume.com/) - `⚠ not free` Avenue is an instrument for VJs, AV performers and video artists. Avenue puts all your media and effects right at your fingertips, so you can quickly play and improvise your live visuals. 
+- [VPT](https://hcgilje.wordpress.com/vpt/) - Video Projection Tool (VPT) is a free multipurpose realtime projection software tool for Mac and Windows.
+
 ### Protocols
 
 - [OBS Websocket](https://github.com/Palakis/obs-websocket) - `✓ open-source` WebSocket API for OBS Studio.
@@ -110,6 +120,11 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 - [Livescript](https://github.com/Netlob/livescript) - `✓ open-source` Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site
 - [StageClock](http://notelek.com/StageClock/) - `⚠ freemium` StageClock is a Java based graphical timekeeping application. It outputs a clean feed from an attached monitor, and has time/date, timer, and show information.
+
+### CADs
+
+- [AutoCAD](https://www.autodesk.com/products/autocad) - `⚠ not free` AutoCAD® is computer-aided design (CAD) software that architects, engineers, and construction professionals rely on to create precise 2D and 3D drawings.
+- [Vectorworks](https://www.vectorworks.net/) - `⚠ not free` Vectorworks is a versatile, on-premise application that provides extensive 2D drafting, 3D modeling, BIM and rendering capabilities for your architectural and landscape design needs. Also had a special entertainment version: [Vectorworks Spotlight](https://www.vectorworks.net/en-GB/spotlight)
 
 ### Timecode
 
