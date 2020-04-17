@@ -41,9 +41,9 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [Avolites Titan](https://www.avolites.com/software/downloads/titan-pc-suite) - PC version of the Titan software which runs on the Avolites desk. Free to use until version 11.4 although it spits out random data once in a while. Requires a dongle from version 12
 - [Chamsys MagicQ](https://chamsyslighting.com/) - MagiQ is a professional lighting software providing up to 64 Artnet universes for free. It includes powerful features like 2D/3D pixel mapping, effect generator, media server and visualizer.
 - [Depence²](https://www.syncronorm.com/products/depence2/overview/) - Depence² is a unique application, which combines the design and visualization process with the potential to control the real show.
-- [Dot2 software](https://www.malighting.com/downloads/products/dot2/) - Free, offline software for the Dot2 consoles. Inclused Dot2 onPC and Dot2 3D.
-- [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/) - Free, offline software for the GrandMA2 lighting console. Inclused GrandMA2 OnPC and MA3D.
-- [GrandMA3 software](https://www.malighting.com/downloads/products/grandma3/) - Free, offline software for the **new** GrandMA3 lighting console. Inclused GrandMA3 OnPC.
+- [Dot2 software](https://www.malighting.com/downloads/products/dot2/) - Free, offline software for the Dot2 consoles. Includes Dot2 onPC and Dot2 3D.
+- [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/) - Free, offline software for the GrandMA2 lighting console. Includes GrandMA2 OnPC and MA3D.
+- [GrandMA3 software](https://www.malighting.com/downloads/products/grandma3/) - Free, offline software for the **new** GrandMA3 lighting console. Includes GrandMA3 OnPC.
 - [ONYX](https://obsidiancontrol.com/onyx-technologies) - Modern lighting control system with alot of features.
 - [Open Lighting Architecture](https://www.openlighting.org/ola/) - A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices.
 - [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc.
@@ -52,7 +52,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 ### Visualizers
 
 - [Capture](https://www.capture.se/) - Documentation and visualisation software. Capture is a native macOS and Windows application that lets you work with lighting, video, laser, moving scenery and water effects.
-- [Ma3D](https://www.malighting.com/downloads/products/grandma2/) - Lighting visualizer for GrandMA consoles/software
+- [Ma3D](https://www.malighting.com/downloads/products/grandma2/) - **Free** lighting visualizer for GrandMA consoles/software
 - [wysiwyg](https://cast-soft.com/wysiwyg-lighting-design/) - wysiwyg is an all-in-one lighting design software with fully integrated CAD, plots, data, visualization and virtual show control.
 
 ## Audio
