@@ -28,14 +28,17 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
   - [ArtNet Libraries](#ArtNet-Libraries)
 - [Hardware](#Hardware)
 - [IP-Audio + IP-Video](#IP-Audio-+-IP-Video)
-- [Tutorials](#Tutorials)
-  - [GrandMA2 tutorials](#GrandMA2-tutorials)
 - [Graphics](#Graphics)
 - [Resources](#Resources)
   - [Blogs](#Blogs)
+- [Tutorials](#Tutorials)
+  - [GrandMA2 tutorials](#GrandMA2-tutorials)
 - [Misc/other](#Misc/other)
+- [License](#License)
 
 ## Lighting
+
+**[`^        back to top        ^`](#Contents)**
 
 ### Lighting Software
 
@@ -46,9 +49,9 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/) - `⚠ freemium` Free, offline software for the GrandMA2 lighting console. Includes GrandMA2 OnPC and MA3D. Does not output DMX for free.
 - [GrandMA3 software](https://www.malighting.com/downloads/products/grandma3/) - `⚠ freemium` Free, offline software for the **new** GrandMA3 lighting console. Includes GrandMA3 OnPC. Does not output DMX for free.
 - [ONYX](https://obsidiancontrol.com/onyx-technologies) - Modern lighting control system with alot of features.
-- [Open Lighting Architecture](https://www.openlighting.org/ola/) - A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices.
-- [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc.
-- [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget.
+- [Open Lighting Architecture](https://www.openlighting.org/ola/) - `✓ open-source` A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. [Source Code](https://github.com/OpenLightingProject/ola)
+- [QLC+](https://www.qlcplus.org/) - `✓ open-source` QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code](https://github.com/mcallegari/qlcplus)
+- [xLights](https://xlights.org/) - `✓ open-source` Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code](https://github.com/smeighan/xLights)
 
 ### Visualizers
 
@@ -57,6 +60,8 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [wysiwyg](https://cast-soft.com/wysiwyg-lighting-design/) - `⚠ not free` wysiwyg is an all-in-one lighting design software with fully integrated CAD, plots, data, visualization and virtual show control.
 
 ## Audio
+
+**[`^        back to top        ^`](#Contents)**
 
 ### Audio Software
 
@@ -73,6 +78,8 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [REW](https://www.roomeqwizard.com/) - REW is free room acoustics analysis software for measuring and analysing room and loudspeaker responses. Free SMAART alternative.
 
 ## Video
+
+**[`^        back to top        ^`](#Contents)**
 
 ### Video Software
 
@@ -120,6 +127,8 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 ## Libraries
 
+**[`^        back to top        ^`](#Contents)**
+
 - [node-dmx](https://github.com/node-dmx/dmx) - DMX controller library for Node.js `nodejs`
 
 ### ArtNet Libraries
@@ -129,9 +138,13 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 ## Hardware
 
+**[`^        back to top        ^`](#Contents)**
+
 See [HARDWARE.md](./HARDWARE.md)
 
 ## IP-Audio + IP-Video
+
+**[`^        back to top        ^`](#Contents)**
 
 - [AES67 Linux Daemon](https://github.com/bondagit/aes67-linux-daemon) - `✓ open-source` AES67 Linux Daemon is a Linux implementation of AES67 interoperability standard used to distribute and synchronize real time audio over Ethernet.
 - [AES67 SAP nmos gateway](https://github.com/yboujraf/AES67_SAP_nmos_gateway) - `✓ open-source` An NMOS IS-04 implementation built around discovering AES67 streams announced with SAP (dante devices in AES67 mode).
@@ -139,18 +152,16 @@ See [HARDWARE.md](./HARDWARE.md)
 - [SAP Receiver](https://github.com/jonasohland/sap-receiver) - `✓ open-source` Receive and store SDPs for AES67 SAP announcements
 - [ST-2110 software toolkit](https://github.com/pkeroulas/st2110-toolkit) - `✓ open-source` This toolkit provides scripts and config to test, monitor and transcode SMPTE ST 2110 streams
 
-## Tutorials
-
-### GrandMA2 tutorials
-
-- [GMA2 colour picker tutorial](https://www.youtube.com/watch?v=lhYDUzWKz3M) - a tutorial for how to add a colour picker in GrandMA2
-
 ## Graphics
+
+**[`^        back to top        ^`](#Contents)**
 
 - [GIMP](https://www.gimp.org/) - GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems.
 - [Inkscape](https://inkscape.org/) - Inkscape is a professional vector graphics editor for Linux, Windows and macOS.
 
 ## Resources
+
+**[`^        back to top        ^`](#Contents)**
 
 - [Chamsys Programmers and Users facebook group](https://www.facebook.com/groups/chamsys.users/) - The best place to find information about Chamsys consoles and software.
 - [Christian Jackson](https://www.youtube.com/channel/UCdLor-EVzOjOY7OZNXt8eIw) - YouTube channel about concert lighting. Also has great MA tutorials.
@@ -165,7 +176,17 @@ See [HARDWARE.md](./HARDWARE.md)
 - [mikewoodld.com/blog/](https://www.mikewoodld.com/blog/) - Blog of Lighting Designer Mike Wood.
 - [notelek.com/blog/](http://notelek.com/blog/) - LXR Stage Technology Blog.
 
+## Tutorials
+
+**[`^        back to top        ^`](#Contents)**
+
+### GrandMA2 tutorials
+
+- [GMA2 colour picker tutorial](https://www.youtube.com/watch?v=lhYDUzWKz3M) - a tutorial for how to add a colour picker in GrandMA2
+
 ## Misc/other
+
+**[`^        back to top        ^`](#Contents)**
 
 - [Blender ArtNet](https://github.com/BryanCrotaz/blender-artnet) - `✓ open-source` Blender script to push ArtNet data to Evee lights. Runs at 30fps with Evee rendering in the viewport.
 - [Linux](https://en.wikipedia.org/wiki/Linux) - `✓ open-source` A free operating system that can run on pretty much every kind of computer and is great for breathing new life into old computers that aren't supported by the newer Windows editions. There's tons of different distributions to choose from, each have their own benefits and drawbacks. The most common one for general computer stuff is
@@ -174,11 +195,9 @@ See [HARDWARE.md](./HARDWARE.md)
 - [tonsofpcs/gvg110](https://github.com/tonsofpcs/gvg110)
 - [UsedLighting](https://www.usedlighting.com/) - Marketplace for buying/selling used lighting hardware.
 
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 ## License
+
+**[`^        back to top        ^`](#Contents)**
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
