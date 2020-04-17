@@ -195,6 +195,8 @@ See [HARDWARE.md](./HARDWARE.md)
 - [tonsofpcs/gvg110](https://github.com/tonsofpcs/gvg110)
 - [UsedLighting](https://www.usedlighting.com/) - Marketplace for buying/selling used lighting hardware.
 
+---------
+
 ## License
 
 **[`^        back to top        ^`](#Contents)**
