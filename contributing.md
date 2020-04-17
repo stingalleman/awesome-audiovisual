@@ -8,7 +8,7 @@ project you agree to abide by its terms.
 
 ## Make a contribution
 
-Edit [README.md](README.md) thru [GitHub's web editor](https://github.com/stingalleman/awesome-audiovisual/edit/master/README.md), and send a pull request.
+Edit the [README.md](README.md) thru [GitHub's web editor](https://github.com/stingalleman/awesome-audiovisual/edit/master/README.md), and send a pull request.
 
 ---
 
