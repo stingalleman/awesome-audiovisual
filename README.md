@@ -31,7 +31,8 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [Tutorials](#Tutorials)
   - [GrandMA2 tutorials](#GrandMA2-tutorials)
 - [Graphics](#Graphics)
-- [Blogs and other resources](#Blogs-and-other-resources)
+- [Resources](#Resources)
+  - [Blogs](#Blogs)
 - [Misc/other](#Misc/other)
 
 ## Lighting
@@ -149,17 +150,20 @@ See [HARDWARE.md](./HARDWARE.md)
 - [GIMP](https://www.gimp.org/) - GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems.
 - [Inkscape](https://inkscape.org/) - Inkscape is a professional vector graphics editor for Linux, Windows and macOS.
 
-## Blogs and other resources
+## Resources
 
 - [Chamsys Programmers and Users facebook group](https://www.facebook.com/groups/chamsys.users/) - The best place to find information about Chamsys consoles and software.
 - [Christian Jackson](https://www.youtube.com/channel/UCdLor-EVzOjOY7OZNXt8eIw) - YouTube channel about concert lighting. Also has great MA tutorials.
 - [Geezers of Gear](https://geezersofgear.libsyn.com/) - Entertainment Production Industry veteran talking about pro-audio, lighting, staging, video + the people and companies who work in this great industry.
 - [@limelightwired](https://www.instagram.com/limelightwired/) - Lighting production community on Instagram.
-- [mikewoodld.com/blog/](https://www.mikewoodld.com/blog/) - Blog of Lighting Designer Mike Wood.
-- [notelek.com/blog/](http://notelek.com/blog/) - LXR Stage Technology Blog.
 - [QLab Cookbook](https://qlab.app/cookbook/) - The cookbook is a collection of projects, examples, and experiments using a broad range of QLab programming techniques including AppleScript, OSC, external control using QLab Remote, third-party MIDI and OSC controllers, and other software.
 - [/r/lightingdesign](reddit.com/r/lightingdesign/) - The Reddit community for lighting designers worldwide.
 - [/r/techtheatre](reddit.com/r/techtheatre/) - The reddit community for all production designers and technicians!
+
+### Blogs
+
+- [mikewoodld.com/blog/](https://www.mikewoodld.com/blog/) - Blog of Lighting Designer Mike Wood.
+- [notelek.com/blog/](http://notelek.com/blog/) - LXR Stage Technology Blog.
 
 ## Misc/other
 
