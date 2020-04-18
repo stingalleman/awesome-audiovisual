@@ -18,13 +18,15 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
   - [Video Software](#Video-Software)
     - [Playout And Switching](#Playout-And-Switching)
     - [Control and Orchestration](#Control-and-Orchestration)
+  - [Projection Mapping](#Projection-Mapping)
   - [Protocols](#Protocols)
   - [Video Tools](#Video-Tools)
 - [Tools](#Tools)
+  - [CADs](#CADs)
   - [Timecode](#Timecode)
   - [Monitoring](#Monitoring)
     - [Audio Monitoring](#Audio-Monitoring)
-- [Libraries](#Libraries)
+- [Libraries and frameworks](#Libraries-and-frameworks)
   - [ArtNet Libraries](#ArtNet-Libraries)
 - [Hardware](#Hardware)
 - [IP-Audio + IP-Video](#IP-Audio-+-IP-Video)
@@ -46,10 +48,10 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [Chamsys MagicQ](https://chamsyslighting.com/) - MagiQ is a professional lighting software providing up to 64 Artnet universes for free. It includes powerful features like 2D/3D pixel mapping, effect generator, media server and visualizer.
 - [Depence²](https://www.syncronorm.com/products/depence2/overview/) - `⚠ not free` Depence² is a unique application, which combines the design and visualization process with the potential to control the real show.
 - [Dot2 software](https://www.malighting.com/downloads/products/dot2/) - Free, offline software for the Dot2 consoles. Includes Dot2 onPC and Dot2 3D.
+- [EOS Family](https://www.etcconnect.com/Products/Consoles/Eos-Family/) - `⚠ freemium` Software for ETC's EOS-family consoles.
 - [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/) - `⚠ freemium` Free, offline software for the GrandMA2 lighting console. Includes GrandMA2 OnPC and MA3D. Does not output DMX for free.
 - [GrandMA3 software](https://www.malighting.com/downloads/products/grandma3/) - `⚠ freemium` Free, offline software for the **new** GrandMA3 lighting console. Includes GrandMA3 OnPC. Does not output DMX for free.
 - [ONYX](https://obsidiancontrol.com/onyx-technologies) - Modern lighting control system with alot of features.
-- [Open Lighting Architecture](https://www.openlighting.org/ola/) - `✓ open-source` A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. [Source Code](https://github.com/OpenLightingProject/ola)
 - [QLC+](https://www.qlcplus.org/) - `✓ open-source` QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code](https://github.com/mcallegari/qlcplus)
 - [xLights](https://xlights.org/) - `✓ open-source` Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code](https://github.com/smeighan/xLights)
 
@@ -97,6 +99,14 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [Bitfocus Companion](https://bitfocus.io/companion/) - `✓ open-source` Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment. [Source Code](https://github.com/bitfocus/companion)
 - [Director](https://github.com/borealsystems/Director) - `✓ open-source` Facility scale media orchestration and automation.
 
+### Projection Mapping
+
+- [Catalyst](http://www.catalyst-v5.com/) - `⚠ not free` Catalyst software is an image processing system that provides the facilities to control and manipulate high resolution (HD & 4K) movies, live camera, or images for playback through any number of video projection or LED screen devices.
+- [Lightform](https://lightform.com/) - `⚠ not free` AR-enabled projection beamers.
+- [Resolume Arena Media Server](https://resolume.com/) - `⚠ not free` Arena has everything Avenue has, plus advanced options for projection mapping and blending projectors. Control it from a lighting desk and sync to the DJ via SMPTE timecode.
+- [Resolume Resolume Avenue VJ Software](https://resolume.com/) - `⚠ not free` Avenue is an instrument for VJs, AV performers and video artists. Avenue puts all your media and effects right at your fingertips, so you can quickly play and improvise your live visuals.
+- [VPT](https://hcgilje.wordpress.com/vpt/) - Video Projection Tool (VPT) is a free multipurpose realtime projection software tool for Mac and Windows.
+
 ### Protocols
 
 - [OBS Websocket](https://github.com/Palakis/obs-websocket) - `✓ open-source` WebSocket API for OBS Studio.
@@ -108,8 +118,15 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 ## Tools
 
+**[`^        back to top        ^`](#Contents)**
+
 - [Livescript](https://github.com/Netlob/livescript) - `✓ open-source` Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site.
 - [StageClock](http://notelek.com/StageClock/) - `⚠ freemium` StageClock is a Java based graphical timekeeping application. It outputs a clean feed from an attached monitor, and has time/date, timer, and show information.
+
+### CADs
+
+- [AutoCAD](https://www.autodesk.com/products/autocad) - `⚠ not free` AutoCAD® is computer-aided design (CAD) software that architects, engineers, and construction professionals rely on to create precise 2D and 3D drawings.
+- [Vectorworks](https://www.vectorworks.net/) - `⚠ not free` Vectorworks is a versatile, on-premise application that provides extensive 2D drafting, 3D modeling, BIM and rendering capabilities for your architectural and landscape design needs. Also had a special entertainment version: [Vectorworks Spotlight](https://www.vectorworks.net/en-GB/spotlight)
 
 ### Timecode
 
@@ -125,11 +142,12 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [meters.lv2](https://github.com/x42/meters.lv2) - `✓ open-source` meters.lv2 is a collection of audio-level meters with GUI in LV2 plugin format.
 - [Open Sound Meter](https://opensoundmeter.com/) - `✓ open-source` Clean, open-source sound meter. Supports RTA, magnitude, phase and impulse response, coherence, group delay and more.
 
-## Libraries
+## Libraries and frameworks
 
 **[`^        back to top        ^`](#Contents)**
 
-- [node-dmx](https://github.com/node-dmx/dmx) - DMX controller library for Node.js. `nodejs`
+- [Open Lighting Architecture](https://www.openlighting.org/ola/) - `✓ open-source` A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. [Source Code](https://github.com/OpenLightingProject/ola)
+- [node-dmx](https://github.com/node-dmx/dmx) - DMX controller library for Node.js `nodejs`
 
 ### ArtNet Libraries
 
@@ -188,19 +206,19 @@ See [HARDWARE.md](./HARDWARE.md).
 
 **[`^        back to top        ^`](#Contents)**
 
+- [ESTA Technical Standards Program](https://tsp.esta.org/tsp/documents/published_docs.php) - Collection of technical standards in the entertainment technology industry.
 - [Blender ArtNet](https://github.com/BryanCrotaz/blender-artnet) - `✓ open-source` Blender script to push ArtNet data to Evee lights. Runs at 30fps with Evee rendering in the viewport.
-- [Linux](https://en.wikipedia.org/wiki/Linux) - `✓ open-source` A free operating system that can run on pretty much every kind of computer and is great for breathing new life into old computers that aren't supported by the newer Windows editions. There's tons of different distributions to choose from, each have their own benefits and drawbacks. The most common one for general computer stuff is
+- [Linux](https://en.wikipedia.org/wiki/Linux) - `✓ open-source` A free operating system that can run on pretty much every kind of computer and is great for breathing new life into old computers that aren't supported by the newer Windows editions. There's tons of different distributions to choose from,. The most common one for general computer stuff is
 [Ubuntu](https://ubuntu.com/).
 - [MIDI Monster](https://github.com/cbdevnet/midimonster/) - `✓ open-source` MIDIMonster is a universal control and translation tool. It can translate between many different protocols such as MIDI, Artnet, sACN and OSC.
-- [tonsofpcs/gvg110](https://github.com/tonsofpcs/gvg110)
 - [UsedLighting](https://www.usedlighting.com/) - Marketplace for buying/selling used lighting hardware.
+- [tonsofpcs/gvg110](https://github.com/tonsofpcs/gvg110)
 
 ---------
 
 ## License
 
-**[`^        back to top        ^`](#Contents)**
-
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, Sting Alleman has waived all copyright and related or neighboring rights to this work.
+[LICENSE](https://github.com/stingalleman/awesome-audiovisual/blob/master/LICENSE)
