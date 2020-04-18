@@ -130,7 +130,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 ### Timecode
 
-- [El-Tee-See](http://elteesee.pehrhovey.net/) - `✓ free` LTC waw file generator.
+- [El-Tee-See](http://elteesee.pehrhovey.net/) - LTC waw file generator.
 - [TCgenerator](https://github.com/dimitriCGNL/TCGenerator) - `✓ open-source` Reaper time marker to GrandMA2 TC Generator.
 - [Timecode](https://github.com/MrExplode/Timecode) - `✓ open-source` ArtNet and LTC timecode generator, made with Java.
 - [TimelordMTC](https://timelord-mtc.com/) - `⚠ not free` Advanced timecode management tool.
