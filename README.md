@@ -42,7 +42,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 ### Lighting Software
 
-- [Avolites Titan](https://www.avolites.com/software/downloads/titan-pc-suite) - `⚠ not free` PC version of the Titan software which runs on the Avolites desk. Free to use until version 11.4 although it spits out random data once in a while. Requires a dongle from version 12
+- [Avolites Titan](https://www.avolites.com/software/downloads/titan-pc-suite) - `⚠ not free` PC version of the Titan software which runs on the Avolites desk. Free to use until version 11.4 although it spits out random data once in a while. Requires a dongle from version 12.
 - [Chamsys MagicQ](https://chamsyslighting.com/) - MagiQ is a professional lighting software providing up to 64 Artnet universes for free. It includes powerful features like 2D/3D pixel mapping, effect generator, media server and visualizer.
 - [Depence²](https://www.syncronorm.com/products/depence2/overview/) - `⚠ not free` Depence² is a unique application, which combines the design and visualization process with the potential to control the real show.
 - [Dot2 software](https://www.malighting.com/downloads/products/dot2/) - Free, offline software for the Dot2 consoles. Includes Dot2 onPC and Dot2 3D.
@@ -56,7 +56,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 ### Visualizers
 
 - [Capture](https://www.capture.se/) - `⚠ freemium` Documentation and visualisation software. Capture is a native macOS and Windows application that lets you work with lighting, video, laser, moving scenery and water effects. Does have a free Student Edition.
-- [Ma3D](https://www.malighting.com/downloads/products/grandma2/) - **Free** lighting visualizer for GrandMA consoles/software
+- [Ma3D](https://www.malighting.com/downloads/products/grandma2/) - **Free** lighting visualizer for GrandMA consoles/software.
 - [wysiwyg](https://cast-soft.com/wysiwyg-lighting-design/) - `⚠ not free` wysiwyg is an all-in-one lighting design software with fully integrated CAD, plots, data, visualization and virtual show control.
 
 ## Audio
@@ -66,7 +66,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 ### Audio Software
 
 - [Audacity](https://www.audacityteam.org/) - `✓ open-source` Audio file editor and analysis tool, great for cropping down sound effects and music tracks.
-- [Ardour](https://ardour.org/) - `✓ open-source` A full realtime audio recording and editing suite [Source Code](https://github.com/Ardour/ardour)
+- [Ardour](https://ardour.org/) - `✓ open-source` A full realtime audio recording and editing suite. [Source Code](https://github.com/Ardour/ardour)
 - [da-Share MultiPlay](https://www.da-share.com/software/multiplay/) - MultiPlay is a Windows based program designed to play audio cues for theatre or corporate use. It is free to use.
 - [Linux Show Player](https://www.linux-show-player.org/) - `✓ open-source` Free cue player designed for stage productions. [Source Code](https://github.com/FrancescoCeruti/linux-show-player)
 - [QLab](https://qlab.app/) - `⚠ freemium` QLab is sound, video, and lighting control for macOS.
@@ -74,7 +74,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 ### Audio tools
 
-- [ARTA](http://www.artalabs.hr/) - A collection of programs for audio measurements and analysis
+- [ARTA](http://www.artalabs.hr/) - A collection of programs for audio measurements and analysis.
 - [REW](https://www.roomeqwizard.com/) - REW is free room acoustics analysis software for measuring and analysing room and loudspeaker responses. Free SMAART alternative.
 
 ## Video
@@ -89,7 +89,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 - [CasparCL](https://github.com/Streampunk/casparcl) - `✓ open-source` Implementing the features of CasparCG with Node.JS and OpenCL. `nodejs`
 - [CasperCG](https://casparcg.com/) - `✓ open-source` CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor. [Source Code](https://github.com/CasparCG)
-- [OBS Studio](https://obsproject.com) - `✓ open-source` Free and open source software for live streaming and screen recording [Source Code](https://github.com/obsproject/obs-studio)
+- [OBS Studio](https://obsproject.com) - `✓ open-source` Free and open source software for live streaming and screen recording. [Source Code](https://github.com/obsproject/obs-studio)
 - [VLC Media Player](https://www.videolan.org/vlc/index.html) - Simple to use video player packed with features and plays almost every file type with no need to install codecs.
 
 #### Control and Orchestration
@@ -108,12 +108,12 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 ## Tools
 
-- [Livescript](https://github.com/Netlob/livescript) - `✓ open-source` Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site
+- [Livescript](https://github.com/Netlob/livescript) - `✓ open-source` Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site.
 - [StageClock](http://notelek.com/StageClock/) - `⚠ freemium` StageClock is a Java based graphical timekeeping application. It outputs a clean feed from an attached monitor, and has time/date, timer, and show information.
 
 ### Timecode
 
-- [TCgenerator](https://github.com/dimitriCGNL/TCGenerator) - `✓ open-source` Reaper time marker to GrandMA2 TC Generator
+- [TCgenerator](https://github.com/dimitriCGNL/TCGenerator) - `✓ open-source` Reaper time marker to GrandMA2 TC Generator.
 - [Timecode](https://github.com/MrExplode/Timecode) - `✓ open-source` ArtNet and LTC timecode generator, made with Java.
 - [M2Q](https://github.com/lorenzofattori/M2Q) - `✓ open-source` Python application capable to trigger Chamsys Consoles/Software via MIDI for advanced synchronized shows.
 
@@ -121,7 +121,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 #### Audio Monitoring
 
-- [AES67 WebMeter](https://github.com/zjstraus/AES67-WebMeter) - `✓ open-source` Server that receives an AES67 audio stream and presents a webpage with meters
+- [AES67 WebMeter](https://github.com/zjstraus/AES67-WebMeter) - `✓ open-source` Server that receives an AES67 audio stream and presents a webpage with meters.
 - [meters.lv2](https://github.com/x42/meters.lv2) - `✓ open-source` meters.lv2 is a collection of audio-level meters with GUI in LV2 plugin format.
 - [Open Sound Meter](https://opensoundmeter.com/) - `✓ open-source` Clean, open-source sound meter. Supports RTA, magnitude, phase and impulse response, coherence, group delay and more.
 
@@ -129,18 +129,18 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 **[`^        back to top        ^`](#Contents)**
 
-- [node-dmx](https://github.com/node-dmx/dmx) - DMX controller library for Node.js `nodejs`
+- [node-dmx](https://github.com/node-dmx/dmx) - DMX controller library for Node.js. `nodejs`
 
 ### ArtNet Libraries
 
 - [artnet](https://github.com/hobbyquaker/artnet) - Node.js module that can be used to send ArtDMX packages to an Art-Net node. `nodejs`
-- [artnet4j](https://github.com/cansik/artnet4j) - Art-Net DMX over IP library for Java and Processing `java`
+- [artnet4j](https://github.com/cansik/artnet4j) - Art-Net DMX over IP library for Java and Processing. `java`
 
 ## Hardware
 
 **[`^        back to top        ^`](#Contents)**
 
-See [HARDWARE.md](./HARDWARE.md)
+See [HARDWARE.md](./HARDWARE.md).
 
 ## IP-Audio + IP-Video
 
@@ -149,8 +149,8 @@ See [HARDWARE.md](./HARDWARE.md)
 - [AES67 Linux Daemon](https://github.com/bondagit/aes67-linux-daemon) - `✓ open-source` AES67 Linux Daemon is a Linux implementation of AES67 interoperability standard used to distribute and synchronize real time audio over Ethernet.
 - [AES67 SAP nmos gateway](https://github.com/yboujraf/AES67_SAP_nmos_gateway) - `✓ open-source` An NMOS IS-04 implementation built around discovering AES67 streams announced with SAP (dante devices in AES67 mode).
 - [OBS-ndi](https://github.com/Palakis/obs-ndi) - `✓ open-source` Network A/V in OBS Studio with NewTek's NDI technology.
-- [SAP Receiver](https://github.com/jonasohland/sap-receiver) - `✓ open-source` Receive and store SDPs for AES67 SAP announcements
-- [ST-2110 software toolkit](https://github.com/pkeroulas/st2110-toolkit) - `✓ open-source` This toolkit provides scripts and config to test, monitor and transcode SMPTE ST 2110 streams
+- [SAP Receiver](https://github.com/jonasohland/sap-receiver) - `✓ open-source` Receive and store SDPs for AES67 SAP announcements.
+- [ST-2110 software toolkit](https://github.com/pkeroulas/st2110-toolkit) - `✓ open-source` This toolkit provides scripts and config to test, monitor and transcode SMPTE ST 2110 streams.
 
 ## Graphics
 
@@ -182,7 +182,7 @@ See [HARDWARE.md](./HARDWARE.md)
 
 ### GrandMA2 tutorials
 
-- [GMA2 colour picker tutorial](https://www.youtube.com/watch?v=lhYDUzWKz3M) - a tutorial for how to add a colour picker in GrandMA2
+- [GMA2 colour picker tutorial](https://www.youtube.com/watch?v=lhYDUzWKz3M) - a tutorial for how to add a colour picker in GrandMA2.
 
 ## Misc/other
 
