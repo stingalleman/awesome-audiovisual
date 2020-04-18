@@ -26,7 +26,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
   - [Timecode](#Timecode)
   - [Monitoring](#Monitoring)
     - [Audio Monitoring](#Audio-Monitoring)
-- [Libraries/frameworks](#Libraries/frameworks)
+- [Libraries/frameworks](#Libraries-frameworks)
   - [ArtNet Libraries](#ArtNet-Libraries)
 - [Hardware](#Hardware)
 - [IP-Audio + IP-Video](#IP-Audio-+-IP-Video)
