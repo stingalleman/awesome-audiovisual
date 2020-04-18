@@ -133,6 +133,8 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [TCgenerator](https://github.com/dimitriCGNL/TCGenerator) - `✓ open-source` Reaper time marker to GrandMA2 TC Generator.
 - [Timecode](https://github.com/MrExplode/Timecode) - `✓ open-source` ArtNet and LTC timecode generator, made with Java.
 - [M2Q](https://github.com/lorenzofattori/M2Q) - `✓ open-source` Python application capable to trigger Chamsys Consoles/Software via MIDI for advanced synchronized shows.
+- [TimelordMTC](https://timelord-mtc.com/) - `⚠ not free` Advanced timecode management tool.
+- [El-Tee-See](http://elteesee.pehrhovey.net/) - `✓ free` LTC waw file generator.
 
 ### Monitoring
 
