@@ -26,7 +26,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
   - [Timecode](#Timecode)
   - [Monitoring](#Monitoring)
     - [Audio Monitoring](#Audio-Monitoring)
-- [Libraries/frameworks](#Libraries-frameworks)
+- [Libraries and frameworks](#Libraries-and-frameworks)
   - [ArtNet Libraries](#ArtNet-Libraries)
 - [Hardware](#Hardware)
 - [IP-Audio + IP-Video](#IP-Audio-+-IP-Video)
@@ -142,7 +142,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [meters.lv2](https://github.com/x42/meters.lv2) - `✓ open-source` meters.lv2 is a collection of audio-level meters with GUI in LV2 plugin format.
 - [Open Sound Meter](https://opensoundmeter.com/) - `✓ open-source` Clean, open-source sound meter. Supports RTA, magnitude, phase and impulse response, coherence, group delay and more.
 
-## Libraries/frameworks
+## Libraries and frameworks
 
 **[`^        back to top        ^`](#Contents)**
 
