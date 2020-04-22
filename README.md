@@ -122,7 +122,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 - [Livescript](https://github.com/Netlob/livescript) - `✓ open-source` Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site.
 - [StageClock](http://notelek.com/StageClock/) - `⚠ freemium` StageClock is a Java based graphical timekeeping application. It outputs a clean feed from an attached monitor, and has time/date, timer, and show information.
-
+- [Time MIDI sender](https://github.com/TheGreyDiamond/Time-MIDI-sender) `✓ open-source`A free tool for sending time data to DasLight (via MIDI).
 ### CADs
 
 - [AutoCAD](https://www.autodesk.com/products/autocad) - `⚠ not free` AutoCAD® is computer-aided design (CAD) software that architects, engineers, and construction professionals rely on to create precise 2D and 3D drawings.
