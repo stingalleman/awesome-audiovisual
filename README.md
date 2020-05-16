@@ -15,8 +15,8 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
   - [Audio tools](#Audio-tools)
 - [Video](#Video)
   - [Video Software](#Video-Software)
-    - [Playout And Switching](#Playout-And-Switching)
-    - [Control and Orchestration](#Control-and-Orchestration)
+  - [Playout And Switching](#Playout-And-Switching-Software)
+  - [Control and Orchestration](#Control-and-Orchestration-Software)
   - [Projection Mapping](#Projection-Mapping)
   - [Protocols](#Protocols)
   - [Video Tools](#Video-Tools)
@@ -24,7 +24,6 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
   - [CADs](#CADs)
   - [Timecode](#Timecode)
   - [Monitoring](#Monitoring)
-    - [Audio Monitoring](#Audio-Monitoring)
 - [Libraries and frameworks](#Libraries-and-frameworks)
   - [ArtNet Libraries](#ArtNet-Libraries)
 - [Hardware](#Hardware)
@@ -87,14 +86,14 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 - [Blender](https://www.blender.org/) - `✓ open-source` Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.
 
-#### Playout And Switching
+### Playout And Switching Software
 
 - [CasparCL](https://github.com/Streampunk/casparcl) - `✓ open-source` Implementing the features of CasparCG with Node.js and OpenCL. `nodejs`.
 - [CasperCG](https://casparcg.com/) - `✓ open-source` CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor. [Source Code](https://github.com/CasparCG)
 - [OBS Studio](https://obsproject.com) - `✓ open-source` Free and open source software for live streaming and screen recording. [Source Code](https://github.com/obsproject/obs-studio)
 - [VLC Media Player](https://www.videolan.org/vlc/index.html) - Simple to use video player packed with features and plays almost every file type with no need to install codecs.
 
-#### Control and Orchestration
+### Control and Orchestration Software
 
 - [Bitfocus Companion](https://bitfocus.io/companion/) - `✓ open-source` Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment. [Source Code](https://github.com/bitfocus/companion)
 - [Director](https://github.com/borealsystems/Director) - `✓ open-source` Facility scale media orchestration and automation.
@@ -138,8 +137,6 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 - [M2Q](https://github.com/lorenzofattori/M2Q) - `✓ open-source` Python application capable to trigger Chamsys Consoles/Software via MIDI for advanced synchronized shows.
 
 ### Monitoring
-
-#### Audio Monitoring
 
 - [AES67 WebMeter](https://github.com/zjstraus/AES67-WebMeter) - `✓ open-source` Server that receives an AES67 audio stream and presents a webpage with meters.
 - [meters.lv2](https://github.com/x42/meters.lv2) - `✓ open-source` meters.lv2 is a collection of audio-level meters with GUI in LV2 plugin format.
