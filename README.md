@@ -1,7 +1,7 @@
 
 # Awesome Audiovisual [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of audiovisual projects.
+> Curated list of software, libraries and resources for lighting, video and audio professionals and hobbyists.
 
 Want to add something? Just make a pull request, but be sure to follow the [contributing guidelines](./contributing.md)! Question? Ask it in the [General Discussion issue](https://github.com/stingalleman/awesome-audiovisual/issues/2).
 
