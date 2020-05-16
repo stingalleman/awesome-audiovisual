@@ -3,14 +3,13 @@
 
 > Curated list of audiovisual projects.
 
-Want to add something? Just make a pull request, but be sure to follow the [contributing guidelines!](./contributing.md) (Also, if you don't have a github account, feel free to [email me.](mailto:stingalleman@icloud.com?subject=Awesome-Audiovisual%20contribution))
-Question? Leave it in the [General Discussion issue.](https://github.com/stingalleman/awesome-audiovisual/issues/2)
+Want to add something? Just make a pull request, but be sure to follow the [contributing guidelines](./contributing.md)! Question? Ask it in the [General Discussion issue](https://github.com/stingalleman/awesome-audiovisual/issues/2).
 
 ## Contents
-
+<!--lint ignore awesome-toc -->
 - [Lighting](#Lighting)
   - [Lighting Software](#Lighting-Software)
-  - [Visualizers](#Visualizers)
+  - [Visualizers](#Visualizer)
 - [Audio](#Audio)
   - [Audio Software](#Audio-Software)
   - [Audio tools](#Audio-tools)
@@ -90,7 +89,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 #### Playout And Switching
 
-- [CasparCL](https://github.com/Streampunk/casparcl) - `✓ open-source` Implementing the features of CasparCG with Node.JS and OpenCL. `nodejs`
+- [CasparCL](https://github.com/Streampunk/casparcl) - `✓ open-source` Implementing the features of CasparCG with Node.js and OpenCL. `nodejs`.
 - [CasperCG](https://casparcg.com/) - `✓ open-source` CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor. [Source Code](https://github.com/CasparCG)
 - [OBS Studio](https://obsproject.com) - `✓ open-source` Free and open source software for live streaming and screen recording. [Source Code](https://github.com/obsproject/obs-studio)
 - [VLC Media Player](https://www.videolan.org/vlc/index.html) - Simple to use video player packed with features and plays almost every file type with no need to install codecs.
@@ -123,7 +122,8 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 
 - [Livescript](https://github.com/Netlob/livescript) - `✓ open-source` Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site.
 - [StageClock](http://notelek.com/StageClock/) - `⚠ freemium` StageClock is a Java based graphical timekeeping application. It outputs a clean feed from an attached monitor, and has time/date, timer, and show information.
-- [Time MIDI sender](https://github.com/TheGreyDiamond/Time-MIDI-sender) `✓ open-source`A free tool for sending time data to DasLight (via MIDI).
+- [Time MIDI sender](https://github.com/TheGreyDiamond/Time-MIDI-sender) - `✓ open-source`A free tool for sending time data to DasLight (via MIDI).
+
 ### CADs
 
 - [AutoCAD](https://www.autodesk.com/products/autocad) - `⚠ not free` AutoCAD® is computer-aided design (CAD) software that architects, engineers, and construction professionals rely on to create precise 2D and 3D drawings.
@@ -150,12 +150,12 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 **[`^        back to top        ^`](#Contents)**
 
 - [Open Lighting Architecture](https://www.openlighting.org/ola/) - `✓ open-source` A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. [Source Code](https://github.com/OpenLightingProject/ola)
-- [node-dmx](https://github.com/node-dmx/dmx) - DMX controller library for Node.js `nodejs`
+- [node-dmx](https://github.com/node-dmx/dmx) - DMX controller library for Node.js `nodejs`.
 
 ### ArtNet Libraries
 
-- [artnet](https://github.com/hobbyquaker/artnet) - Node.js module that can be used to send ArtDMX packages to an Art-Net node. `nodejs`
-- [artnet4j](https://github.com/cansik/artnet4j) - Art-Net DMX over IP library for Java and Processing. `java`
+- [artnet](https://github.com/hobbyquaker/artnet) - Node.js module that can be used to send ArtDMX packages to an Art-Net node. `nodejs`.
+- [artnet4j](https://github.com/cansik/artnet4j) - Art-Net DMX over IP library for Java and Processing. `java`.
 
 ## Hardware
 
@@ -177,7 +177,7 @@ See [HARDWARE.md](./HARDWARE.md).
 
 **[`^        back to top        ^`](#Contents)**
 
-- [GIMP](https://www.gimp.org/) - GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems.
+- [GIMP](https://www.gimp.org/) - GIMP is a cross-platform image editor available for GNU/Linux, , Windows and more operating systems.
 - [Inkscape](https://inkscape.org/) - Inkscape is a professional vector graphics editor for Linux, Windows and macOS.
 
 ## Resources
@@ -189,8 +189,8 @@ See [HARDWARE.md](./HARDWARE.md).
 - [Geezers of Gear](https://geezersofgear.libsyn.com/) - Entertainment Production Industry veteran talking about pro-audio, lighting, staging, video + the people and companies who work in this great industry.
 - [@limelightwired](https://www.instagram.com/limelightwired/) - Lighting production community on Instagram.
 - [QLab Cookbook](https://qlab.app/cookbook/) - The cookbook is a collection of projects, examples, and experiments using a broad range of QLab programming techniques including AppleScript, OSC, external control using QLab Remote, third-party MIDI and OSC controllers, and other software.
-- [/r/lightingdesign](reddit.com/r/lightingdesign/) - The Reddit community for lighting designers worldwide.
-- [/r/techtheatre](reddit.com/r/techtheatre/) - The reddit community for all production designers and technicians!
+- [/r/lightingdesign](https://reddit.com/r/lightingdesign/) - The Reddit community for lighting designers worldwide.
+- [/r/techtheatre](https://reddit.com/r/techtheatre/) - The reddit community for all production designers and technicians!
 
 ### Blogs
 
@@ -203,7 +203,7 @@ See [HARDWARE.md](./HARDWARE.md).
 
 ### GrandMA2 tutorials
 
-- [GMA2 colour picker tutorial](https://www.youtube.com/watch?v=lhYDUzWKz3M) - a tutorial for how to add a colour picker in GrandMA2.
+- [GMA2 colour picker tutorial](https://www.youtube.com/watch?v=lhYDUzWKz3M) - A tutorial for how to add a colour picker in GrandMA2.
 
 ## Misc/other
 
@@ -215,13 +215,3 @@ See [HARDWARE.md](./HARDWARE.md).
 [Ubuntu](https://ubuntu.com/).
 - [MIDI Monster](https://github.com/cbdevnet/midimonster/) - `✓ open-source` MIDIMonster is a universal control and translation tool. It can translate between many different protocols such as MIDI, Artnet, sACN and OSC.
 - [UsedLighting](https://www.usedlighting.com/) - Marketplace for buying/selling used lighting hardware.
-- [tonsofpcs/gvg110](https://github.com/tonsofpcs/gvg110)
-
----------
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, Sting Alleman has waived all copyright and related or neighboring rights to this work.
-[LICENSE](https://github.com/stingalleman/awesome-audiovisual/blob/master/LICENSE)
