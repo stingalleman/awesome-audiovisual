@@ -50,6 +50,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [EOS Family](https://www.etcconnect.com/Products/Consoles/Eos-Family/) - `⚠ freemium` Software for ETC's EOS-family consoles.
 - [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/) - `⚠ freemium` Free, offline software for the GrandMA2 lighting console. Includes GrandMA2 OnPC and MA3D. Does not output DMX for free.
 - [GrandMA3 software](https://www.malighting.com/downloads/products/grandma3/) - `⚠ freemium` Free, offline software for the **new** GrandMA3 lighting console. Includes GrandMA3 OnPC. Does not output DMX for free.
+- [Hog 4 software](https://www.highend.com/products/consoles/) - `⚠ freemium` Free, offline software for the Hog 4 lighting console. Includes Hog 4 pc. Does not output DMX for free.
 - [ONYX](https://obsidiancontrol.com/onyx-technologies) - Modern lighting control system with alot of features.
 - [QLC+](https://www.qlcplus.org/) - `✓ open-source` QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code](https://github.com/mcallegari/qlcplus)
 - [xLights](https://xlights.org/) - `✓ open-source` Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code](https://github.com/smeighan/xLights)
