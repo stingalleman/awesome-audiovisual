@@ -188,6 +188,7 @@ See [HARDWARE.md](./HARDWARE.md).
 - [Christian Jackson](https://www.youtube.com/channel/UCdLor-EVzOjOY7OZNXt8eIw) - YouTube channel about concert lighting. Also has great MA tutorials.
 - [Geezers of Gear](https://geezersofgear.libsyn.com/) - Entertainment Production Industry veteran talking about pro-audio, lighting, staging, video + the people and companies who work in this great industry.
 - [@limelightwired](https://www.instagram.com/limelightwired/) - Lighting production community on Instagram.
+- [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - A Awesome list with all things Linux audio.
 - [QLab Cookbook](https://qlab.app/cookbook/) - The cookbook is a collection of projects, examples, and experiments using a broad range of QLab programming techniques including AppleScript, OSC, external control using QLab Remote, third-party MIDI and OSC controllers, and other software.
 - [/r/lightingdesign](https://reddit.com/r/lightingdesign/) - The Reddit community for lighting designers worldwide.
 - [/r/techtheatre](https://reddit.com/r/techtheatre/) - The reddit community for all production designers and technicians!
