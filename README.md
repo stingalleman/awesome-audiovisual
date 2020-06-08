@@ -44,6 +44,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 - [Avolites Titan](https://www.avolites.com/software/downloads/titan-pc-suite) - PC version of the Titan software which runs on the Avolites desk. Free to use until version 11.4 although it spits out random data once in a while. Requires a dongle from version 12. `⚠ not free`.
 - [Chamsys MagicQ](https://chamsyslighting.com/) - MagiQ is a professional lighting software providing up to 64 Artnet universes for free. It includes powerful features like 2D/3D pixel mapping, effect generator, media server and visualizer.
+- [Daslight](https://www.daslight.com/) - DMX lighting software for PC and Mac. 
 - [Dot2 software](https://www.malighting.com/downloads/products/dot2/) - Free, offline software for the Dot2 consoles. Includes Dot2 onPC and Dot2 3D.
 - [EOS Family](https://www.etcconnect.com/Products/Consoles/Eos-Family/) - Software for ETC's EOS-family consoles. `⚠ freemium`.
 - [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/) - Free, offline software for the GrandMA2 lighting console. Includes GrandMA2 OnPC and MA3D. Does not output DMX for free. `⚠ freemium`.
@@ -121,7 +122,6 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 - [Livescript](https://github.com/Netlob/livescript) - Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site. `✓ open-source`.
 - [StageClock](http://notelek.com/StageClock/) - StageClock is a Java based graphical timekeeping application. It outputs a clean feed from an attached monitor, and has time/date, timer, and show information. `⚠ freemium`.
-- [Time MIDI sender](https://github.com/TheGreyDiamond/Time-MIDI-sender) - A free tool for sending time data to DasLight (via MIDI). `✓ open-source`.
 
 ### CADs
 
@@ -135,6 +135,7 @@ Timecode is a sequence of numeric codes generated at regular intervals by a timi
 - [El-Tee-See](http://elteesee.pehrhovey.net/) - LTC waw file generator.
 - [TCgenerator](https://github.com/dimitriCGNL/TCGenerator) - Reaper time marker to GrandMA2 TC Generator. `✓ open-source`.
 - [Timecode](https://github.com/MrExplode/Timecode) - ArtNet and LTC timecode generator, made with Java. `✓ open-source`.
+- [Time MIDI sender](https://github.com/TheGreyDiamond/Time-MIDI-sender) - A free tool for sending time data to DasLight (via MIDI). `✓ open-source`.
 - [TimelordMTC](https://timelord-mtc.com/) - Advanced timecode management tool. `⚠ not free`.
 - [M2Q](https://github.com/lorenzofattori/M2Q) - Python application capable to trigger Chamsys Consoles/Software via MIDI for advanced synchronized shows. `✓ open-source`.
 
