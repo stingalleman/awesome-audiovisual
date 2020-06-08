@@ -112,8 +112,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ### Video tools
 
-- [OBS-VirtualCam](https://github.com/CatxFish/obs-virtual-cam) - OBS-VirtualCam is a plugin for obs-studio , transforming the output video to a virtual directshow device. `✓ open-source`.
-- [OBS MacOS VirtualCam](https://github.com/johnboiles/obs-mac-virtualcam) - OBS-VirtualCam is a plugin for obs-studio on macOS, transforming the output video to a virtual directshow device. `✓ open-source`.
+- [OBS-VirtualCam](https://github.com/CatxFish/obs-virtual-cam) - OBS-VirtualCam is a plugin for obs-studio , transforming the output video to a virtual directshow device. [MacOS version](https://github.com/johnboiles/obs-mac-virtualcam) `✓ open-source`.
 - [StreamSizeCalculator](https://github.com/fschoett/2110-20-stream-size-calculator) - This is a tool to calculate network requirements for streaming 2110-20 video. `✓ open-source`.
 
 ## Tools
