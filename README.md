@@ -126,7 +126,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 ### CADs
 
 - [AutoCAD](https://www.autodesk.com/products/autocad) - AutoCAD® is computer-aided design (CAD) software that architects, engineers, and construction professionals rely on to create precise 2D and 3D drawings. `⚠ not free`.
-- [Vectorworks](https://www.vectorworks.net/) - Vectorworks is a versatile, on-premise application that provides extensive 2D drafting, 3D modeling, BIM and rendering capabilities for your architectural and landscape design needs. Also had a special entertainment version: [Vectorworks Spotlight](https://www.vectorworks.net/en-GB/spotlight) `⚠ not free`.
+- [Vectorworks](https://www.vectorworks.net/) - Vectorworks is a versatile, on-premise application that provides extensive 2D drafting, 3D modeling, BIM and rendering capabilities for your architectural and landscape design needs. Also had a special entertainment version: [Vectorworks Spotlight](https://www.vectorworks.net/en-GB/spotlight). `⚠ not free`.
 
 ### Timecode
 
