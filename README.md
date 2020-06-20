@@ -44,7 +44,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 - [Avolites Titan](https://www.avolites.com/software/downloads/titan-pc-suite) - PC version of the Titan software which runs on the Avolites desk. Free to use until version 11.4 although it spits out random data once in a while. Requires a dongle from version 12. `⚠ not free`.
 - [Chamsys MagicQ](https://chamsyslighting.com/) - MagiQ is a professional lighting software providing up to 64 Artnet universes for free. It includes powerful features like 2D/3D pixel mapping, effect generator, media server and visualizer.
-- [Daslight](https://www.daslight.com/) - DMX lighting software for PC and Mac. 
+- [Daslight](https://www.daslight.com/) - DMX lighting software for PC and Mac.
 - [Dot2 software](https://www.malighting.com/downloads/products/dot2/) - Free, offline software for the Dot2 consoles. Includes Dot2 onPC and Dot2 3D.
 - [EOS Family](https://www.etcconnect.com/Products/Consoles/Eos-Family/) - Software for ETC's EOS-family consoles. `⚠ freemium`.
 - [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/) - Free, offline software for the GrandMA2 lighting console. Includes GrandMA2 OnPC and MA3D. Does not output DMX for free. `⚠ freemium`.
@@ -113,7 +113,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ### Video tools
 
-- [OBS-VirtualCam](https://github.com/CatxFish/obs-virtual-cam) - OBS-VirtualCam is a plugin for obs-studio , transforming the output video to a virtual directshow device. [MacOS version](https://github.com/johnboiles/obs-mac-virtualcam) `✓ open-source`.
+- [OBS-VirtualCam](https://github.com/CatxFish/obs-virtual-cam) - OBS-VirtualCam is a plugin for obs-studio , transforming the output video to a virtual directshow device. [macOS version](https://github.com/johnboiles/obs-mac-virtualcam) `✓ open-source`.
 - [StreamSizeCalculator](https://github.com/fschoett/2110-20-stream-size-calculator) - This is a tool to calculate network requirements for streaming 2110-20 video. `✓ open-source`.
 
 ## Tools
@@ -150,7 +150,7 @@ Timecode is a sequence of numeric codes generated at regular intervals by a timi
 **[`^        back to top        ^`](#Contents)**
 
 - [Open Lighting Architecture](https://www.openlighting.org/ola/) - A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. [Source Code](https://github.com/OpenLightingProject/ola)
-- [node-dmx](https://github.com/node-dmx/dmx) - DMX controller library for Node.js `nodejs` `✓ open-source`.
+- [node-dmx](https://github.com/node-dmx/dmx) - DMX controller library for Node.js. `nodejs` `✓ open-source`.
 
 ### ArtNet Libraries
 
@@ -177,7 +177,7 @@ See [HARDWARE.md](./HARDWARE.md).
 
 **[`^        back to top        ^`](#Contents)**
 
-- [GIMP](https://www.gimp.org/) - GIMP is a cross-platform image editor available for GNU/Linux, , Windows and more operating systems.
+- [GIMP](https://www.gimp.org/) - GIMP is a cross-platform image editor available for Linux, Windows, and macOS.
 - [Inkscape](https://inkscape.org/) - Inkscape is a professional vector graphics editor for Linux, Windows and macOS.
 
 ## Resources
@@ -186,6 +186,7 @@ See [HARDWARE.md](./HARDWARE.md).
 
 - [Chamsys Programmers and Users facebook group](https://www.facebook.com/groups/chamsys.users/) - The best place to find information about Chamsys consoles and software.
 - [Christian Jackson](https://www.youtube.com/channel/UCdLor-EVzOjOY7OZNXt8eIw) - YouTube channel about concert lighting. Also has great MA tutorials.
+- [ESTA Technical Standards Program](https://tsp.esta.org/tsp/documents/published_docs.php) - Collection of technical standards in the entertainment technology industry.
 - [Geezers of Gear](https://geezersofgear.libsyn.com/) - Entertainment Production Industry veteran talking about pro-audio, lighting, staging, video + the people and companies who work in this great industry.
 - [@limelightwired](https://www.instagram.com/limelightwired/) - Lighting production community on Instagram.
 - [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - A Awesome list with all things Linux audio.
@@ -210,9 +211,7 @@ See [HARDWARE.md](./HARDWARE.md).
 
 **[`^        back to top        ^`](#Contents)**
 
-- [ESTA Technical Standards Program](https://tsp.esta.org/tsp/documents/published_docs.php) - Collection of technical standards in the entertainment technology industry.
 - [Blender ArtNet](https://github.com/BryanCrotaz/blender-artnet) - Blender script to push ArtNet data to Evee lights. Runs at 30fps with Evee rendering in the viewport. `✓ open-source`.
-- [Linux](https://en.wikipedia.org/wiki/Linux) - A free operating system that can run on pretty much every kind of computer and is great for breathing new life into old computers that aren't supported by the newer Windows editions. There's tons of different distributions to choose from,. The most common one for general computer stuff is
-[Ubuntu](https://ubuntu.com/). `✓ open-source`.
+- [Linux](https://en.wikipedia.org/wiki/Linux) - A free operating system that can run on pretty much every kind of computer and is great for breathing new life into old computers that aren't supported by the newer Windows editions. There's tons of different distributions to choose from,. The most common one for general computer stuff is [Ubuntu](https://ubuntu.com/). `✓ open-source`.
 - [MIDI Monster](https://github.com/cbdevnet/midimonster/) - MIDIMonster is a universal control and translation tool. It can translate between many different protocols such as MIDI, Artnet, sACN and OSC. `✓ open-source`.
 - [UsedLighting](https://www.usedlighting.com/) - Marketplace for buying/selling used lighting hardware.
