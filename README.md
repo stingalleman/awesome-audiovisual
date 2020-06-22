@@ -34,7 +34,6 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 - [Tutorials](#Tutorials)
   - [GrandMA2 tutorials](#GrandMA2-tutorials)
 - [Misc/other](#Misc/other)
-- [License](#License)
 
 ## Lighting
 
