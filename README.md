@@ -27,7 +27,6 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 - [Libraries and frameworks](#Libraries-and-frameworks)
   - [ArtNet Libraries](#ArtNet-Libraries)
 - [Hardware](#Hardware)
-- [IP-Audio + IP-Video](#IP-Audio-+-IP-Video)
 - [Graphics](#Graphics)
 - [Resources](#Resources)
   - [Blogs](#Blogs)
