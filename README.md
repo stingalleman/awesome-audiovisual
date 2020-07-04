@@ -104,6 +104,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 - [Resolume Arena Media Server](https://resolume.com/) - Arena has everything Avenue has, plus advanced options for projection mapping and blending projectors. Control it from a lighting desk and sync to the DJ via SMPTE timecode. `⚠ not free`.
 - [Resolume Resolume Avenue VJ Software](https://resolume.com/) - Avenue is an instrument for VJs, AV performers and video artists. Avenue puts all your media and effects right at your fingertips, so you can quickly play and improvise your live visuals. `⚠ not free`.
 - [VPT](https://hcgilje.wordpress.com/vpt/) - Video Projection Tool (VPT) is a free multipurpose realtime projection software tool for Mac and Windows.
+- [Blender](https://www.blender.org) - Blender is an open source 3D-Modeling tool which can be used to create content for projection maping (when used with fSpy). `✓ open-source`
 
 ### Protocols
 
