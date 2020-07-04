@@ -81,9 +81,6 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 **[`^        back to top        ^`](#Contents)**
 
-### Video Software
-
-- [Blender](https://www.blender.org/) - Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline. `✓ open-source`.
 
 ### Playout And Switching
 
@@ -99,6 +96,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ### Projection Mapping
 
+- [Blender](https://www.blender.org) - Blender is an open source 3D-Modeling tool which can be used to create content for projection maping (when used with fSpy). `✓ open-source`
 - [Catalyst](http://www.catalyst-v5.com/) - Catalyst software is an image processing system that provides the facilities to control and manipulate high resolution (HD & 4K) movies, live camera, or images for playback through any number of video projection or LED screen devices. `⚠ not free`.
 - [Lightform](https://lightform.com/) - AR-enabled projection beamers. `⚠ not free`.
 - [Resolume Arena Media Server](https://resolume.com/) - Arena has everything Avenue has, plus advanced options for projection mapping and blending projectors. Control it from a lighting desk and sync to the DJ via SMPTE timecode. `⚠ not free`.
