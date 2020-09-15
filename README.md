@@ -128,7 +128,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 Timecode is a sequence of numeric codes generated at regular intervals by a timing synchronization system. Timecode is used in video production, show control and other applications which require temporal coordination or logging of recording or actions.
 
-- [El-Tee-See](http://elteesee.pehrhovey.net/) - LTC waw file generator.
+- [El-Tee-See](http://elteesee.pehrhovey.net/) - LTC wav file generator.
 - [TCgenerator](https://github.com/dimitriCGNL/TCGenerator) - Reaper time marker to GrandMA2 TC Generator. `✓ open-source`.
 - [Timecode](https://github.com/MrExplode/Timecode) - ArtNet and LTC timecode generator, made with Java. `✓ open-source`.
 - [Time MIDI sender](https://github.com/TheGreyDiamond/Time-MIDI-sender) - A free tool for sending time data to DasLight (via MIDI). `✓ open-source`.
