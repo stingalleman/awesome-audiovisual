@@ -81,36 +81,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 **[`^        back to top        ^`](#Contents)**
 
-
-### Playout And Switching
-
-- [CasparCL](https://github.com/Streampunk/casparcl) - Implementing the features of CasparCG with Node.js and OpenCL. `nodejs` `✓ open-source`.
-- [CasperCG](https://casparcg.com/) - CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor. [Source Code](https://github.com/CasparCG) `✓ open-source`.
-- [OBS Studio](https://obsproject.com) - Free and open source software for live streaming and screen recording. [Source Code](https://github.com/obsproject/obs-studio) `✓ open-source`.
-- [VLC Media Player](https://www.videolan.org/vlc/index.html) - Simple to use video player packed with features and plays almost every file type with no need to install codecs.
-
-### Control and Orchestration
-
-- [Bitfocus Companion](https://bitfocus.io/companion/) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment. [Source Code](https://github.com/bitfocus/companion) `✓ open-source`.
-- [Director](https://github.com/borealsystems/Director) - Facility scale media orchestration and automation. `✓ open-source`.
-
-### Projection Mapping
-
-- [Blender](https://www.blender.org) - Blender is an open source 3D-Modeling tool which can be used to create content for projection maping (when used with fSpy). `✓ open-source`
-- [Catalyst](http://www.catalyst-v5.com/) - Catalyst software is an image processing system that provides the facilities to control and manipulate high resolution (HD & 4K) movies, live camera, or images for playback through any number of video projection or LED screen devices. `⚠ not free`.
-- [Lightform](https://lightform.com/) - AR-enabled projection beamers. `⚠ not free`.
-- [Resolume Arena Media Server](https://resolume.com/) - Arena has everything Avenue has, plus advanced options for projection mapping and blending projectors. Control it from a lighting desk and sync to the DJ via SMPTE timecode. `⚠ not free`.
-- [Resolume Resolume Avenue VJ Software](https://resolume.com/) - Avenue is an instrument for VJs, AV performers and video artists. Avenue puts all your media and effects right at your fingertips, so you can quickly play and improvise your live visuals. `⚠ not free`.
-- [VPT](https://hcgilje.wordpress.com/vpt/) - Video Projection Tool (VPT) is a free multipurpose realtime projection software tool for Mac and Windows.
-
-### Protocols
-
-- [OBS Websocket](https://github.com/Palakis/obs-websocket) - WebSocket API for OBS Studio. `✓ open-source`.
-
-### Video tools
-
-- [OBS-VirtualCam](https://github.com/CatxFish/obs-virtual-cam) - OBS-VirtualCam is a plugin for obs-studio , transforming the output video to a virtual directshow device. [macOS version](https://github.com/johnboiles/obs-mac-virtualcam). `✓ open-source`.
-- [StreamSizeCalculator](https://github.com/fschoett/2110-20-stream-size-calculator) - This is a tool to calculate network requirements for streaming 2110-20 video. `✓ open-source`.
+See [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting#readme).
 
 ## Tools
 
@@ -158,16 +129,6 @@ Timecode is a sequence of numeric codes generated at regular intervals by a timi
 **[`^        back to top        ^`](#Contents)**
 
 See [HARDWARE.md](./HARDWARE.md).
-
-## IP-Audio + IP-Video
-
-**[`^        back to top        ^`](#Contents)**
-
-- [AES67 Linux Daemon](https://github.com/bondagit/aes67-linux-daemon) - AES67 Linux Daemon is a Linux implementation of AES67 interoperability standard used to distribute and synchronize real time audio over Ethernet. `✓ open-source`.
-- [AES67 SAP nmos gateway](https://github.com/yboujraf/AES67_SAP_nmos_gateway) - An NMOS IS-04 implementation built around discovering AES67 streams announced with SAP (dante devices in AES67 mode). `✓ open-source`.
-- [OBS-ndi](https://github.com/Palakis/obs-ndi) - Network A/V in OBS Studio with NewTek's NDI technology. `✓ open-source`.
-- [SAP Receiver](https://github.com/jonasohland/sap-receiver) - Receive and store SDPs for AES67 SAP announcements. `✓ open-source`.
-- [ST-2110 software toolkit](https://github.com/pkeroulas/st2110-toolkit) - This toolkit provides scripts and config to test, monitor and transcode SMPTE ST 2110 streams. `✓ open-source`.
 
 ## Graphics
 
