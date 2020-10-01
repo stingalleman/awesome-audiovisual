@@ -45,6 +45,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 - [Daslight](https://www.daslight.com/) - DMX lighting software for PC and Mac.
 - [Dot2 software](https://www.malighting.com/downloads/products/dot2/) - Free, offline software for the Dot2 consoles. Includes Dot2 onPC and Dot2 3D.
 - [EOS Family](https://www.etcconnect.com/Products/Consoles/Eos-Family/) - Software for ETC's EOS-family consoles. `⚠ freemium`.
+- [Freestyler](http://www.freestylerdmx.be/) - Free lightning control software
 - [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/) - Free, offline software for the GrandMA2 lighting console. Includes GrandMA2 OnPC and MA3D. Does not output DMX for free. `⚠ freemium`.
 - [GrandMA3 software](https://www.malighting.com/downloads/products/grandma3/) - Free, offline software for the **new** GrandMA3 lighting console. Includes GrandMA3 OnPC. Does not output DMX for free. `⚠ freemium`.
 - [Hog 4 software](https://www.highend.com/products/consoles/) - Free, offline software for the Hog 4 lighting console. Includes Hog 4 pc. Does not output DMX for free. `⚠ freemium`.
