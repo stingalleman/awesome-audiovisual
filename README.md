@@ -28,6 +28,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
   - [ArtNet Libraries](#ArtNet-Libraries)
 - [Hardware](#Hardware)
 - [Graphics](#Graphics)
+- [Management](#Management)
 - [Resources](#Resources)
   - [Blogs](#Blogs)
 - [Tutorials](#Tutorials)
@@ -137,6 +138,11 @@ See [HARDWARE.md](./HARDWARE.md).
 
 - [GIMP](https://www.gimp.org/) - GIMP is a cross-platform image editor available for Linux, Windows, and macOS.
 - [Inkscape](https://inkscape.org/) - Inkscape is a professional vector graphics editor for Linux, Windows and macOS.
+
+## Management
+**[`^        back to top        ^`](#Contents)**
+
+- [Rentman](https://rentman.io/) - Cloud rental software for AV & Event companies. Resource planning, scheduling and more. `⚠ not free`
 
 ## Resources
 
