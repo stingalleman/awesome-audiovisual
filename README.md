@@ -72,6 +72,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 ### Audio tools
 
 - [ARTA](http://www.artalabs.hr/) - A collection of programs for audio measurements and analysis.
+- [Fix My Speaker](https://getfixmyspeakers.com/) - Free browser-based speaker cleaner that uses low-frequency audio to help eject trapped water and loosen dust from phone speakers. No app installation required.
 - [REW](https://www.roomeqwizard.com/) - REW is free room acoustics analysis software for measuring and analysing room and loudspeaker responses. Free SMAART alternative.
 
 ## Video
