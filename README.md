@@ -68,6 +68,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 - [QLab](https://qlab.app/) - QLab is sound, video, and lighting control for macOS. `⚠ freemium`.
 - [REAPER](https://www.reaper.fm/) - REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset. `⚠ freemium`.
 - [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI
+- [Nutilz Audio Converter](https://nutilz.com/audio-converter) - Free online audio converter for MP3, WAV, OGG, FLAC and AAC. No signup required.
 
 ### Audio tools
 
