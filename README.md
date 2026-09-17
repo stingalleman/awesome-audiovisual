@@ -84,7 +84,7 @@ See [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting#readm
 
 **[`^        back to top        ^`](#Contents)**
 
-- [Deckboy](https://github.com/Utopian-Academy/Deckboy) - Cue-based media playback and show control for live video. Fades, loops and hold-last-frame on dedicated fullscreen outputs with per-output warp and edge blend, NDI/SDI/ST 2110/SRT out, and cues driven from Stream Deck, Companion, OSC, MIDI or LTC timecode. `✓ open-source`.
+- [Deckboy](https://github.com/Utopian-Academy/Deckboy) - Cue-based media playback and show control for live video. Fades, loops and hold-last-frame on dedicated fullscreen outputs with per-output warp and edge blend, SRT and Blackmagic SDI out, and cues driven from Stream Deck, Companion, OSC, MIDI or LTC timecode. `✓ open-source`.
 - [Livescript](https://github.com/Netlob/livescript) - Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site. `✓ open-source`.
 - [Ontime](https://github.com/cpvalente/ontime) - Browser-based application that manages event rundowns, scheduling, and cueing. Plan, track your schedule, manage automation and cross-department show information in one place. `✓ open-source`.
 - [Remove Audio](https://remove-audio.com) — Free, browser-based audio remover for video files. Uses WebAssembly for local processing, no uploads needed. Supports batch mode for up to 20 clips.
