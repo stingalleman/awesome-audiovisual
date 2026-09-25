@@ -89,6 +89,7 @@ See [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting#readm
 - [Remove Audio](https://remove-audio.com) — Free, browser-based audio remover for video files. Uses WebAssembly for local processing, no uploads needed. Supports batch mode for up to 20 clips.
 - [RunCue](https://runcue.fly.dev/) - `⚠ not free` Browser-based timer for webinar producers with separate control, speaker, and audience links plus private cues.
 - [stagetimer.io](https://stagetimer.io) - Browser-based remote-controlled countdown timer.  `⚠ freemium`.
+- [Reverse Audio Tool](https://reverseaudiotool.com) - Free browser-based audio reverser: drop in an MP3, WAV, M4A, OGG or FLAC file, preview the backwards version and download the reversed audio as WAV. Files are processed locally in the browser, so nothing is uploaded and no account is needed.
 
 ### CADs
 
