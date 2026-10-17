@@ -64,6 +64,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 - [Audacity](https://www.audacityteam.org/) - Audio file editor and analysis tool, great for cropping down sound effects and music tracks. `✓ open-source`.
 - [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code](https://github.com/Ardour/ardour) `✓ open-source`.
 - [da-Share MultiPlay](https://www.da-share.com/software/multiplay/) - MultiPlay is a Windows based program designed to play audio cues for theatre or corporate use. It is free to use.
+- [Infinite](https://infinitedevices.org/) -  Real-time modular audiovisual workstation with unified audio timeline, GLSL shaders, and VST3/AU hosting.  ([Source Code](https://github.com/n1m21n/infinite))
 - [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions. [Source Code](https://github.com/FrancescoCeruti/linux-show-player) `✓ open-source`.
 - [QLab](https://qlab.app/) - QLab is sound, video, and lighting control for macOS. `⚠ freemium`.
 - [REAPER](https://www.reaper.fm/) - REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset. `⚠ freemium`.
