@@ -84,6 +84,7 @@ See [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting#readm
 
 **[`^        back to top        ^`](#Contents)**
 
+- [Free Online Teleprompter](https://www.markstudios.com/tools/teleprompter) - Browser teleprompter: paste a script, set a words-per-minute pace, mirror it for teleprompter glass and read full screen. No sign-up.
 - [Livescript](https://github.com/Netlob/livescript) - Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site. `✓ open-source`.
 - [Ontime](https://github.com/cpvalente/ontime) - Browser-based application that manages event rundowns, scheduling, and cueing. Plan, track your schedule, manage automation and cross-department show information in one place. `✓ open-source`.
 - [Remove Audio](https://remove-audio.com) — Free, browser-based audio remover for video files. Uses WebAssembly for local processing, no uploads needed. Supports batch mode for up to 20 clips.
