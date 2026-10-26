@@ -72,6 +72,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 ### Audio tools
 
 - [ARTA](http://www.artalabs.hr/) - A collection of programs for audio measurements and analysis.
+- [Online Tone Generator](https://theaudiostuff.com/tools/signal-generator/) - Free browser signal generator: sine, square, triangle and sawtooth tones, five noise colours, frequency sweeps, a left/right channel test and a polarity check, with WAV export.
 - [REW](https://www.roomeqwizard.com/) - REW is free room acoustics analysis software for measuring and analysing room and loudspeaker responses. Free SMAART alternative.
 
 ## Video
