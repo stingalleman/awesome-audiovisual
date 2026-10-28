@@ -73,6 +73,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 - [ARTA](http://www.artalabs.hr/) - A collection of programs for audio measurements and analysis.
 - [REW](https://www.roomeqwizard.com/) - REW is free room acoustics analysis software for measuring and analysing room and loudspeaker responses. Free SMAART alternative.
+- [Sound Generator](https://soundgenerator.app) - Browser-based tone and test-signal generator: 1 Hz to 20 kHz sine, square, sawtooth and triangle tones, sweeps, white/pink/brown noise, DTMF and a hearing test, plus WAV export. Free, no account, runs entirely in the browser.
 
 ## Video
 
