@@ -141,6 +141,7 @@ See [HARDWARE.md](./HARDWARE.md).
 **[`^        back to top        ^`](#Contents)**
 
 - [Rentman](https://rentman.io/) - Cloud rental software for AV & Event companies. Resource planning, scheduling and more. `⚠ not free`
+- [WisqRent](https://wisqrent.com/) - `⚠ freemium` Rental inventory software for AV and event companies. Availability, quotes, barcode scanning, packing and returns, with a free plan.
 
 ## Resources
 
