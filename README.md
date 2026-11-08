@@ -72,6 +72,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 ### Audio tools
 
 - [ARTA](http://www.artalabs.hr/) - A collection of programs for audio measurements and analysis.
+- [Calculation Hub dB to Volume Calculator](https://calculation-hub.com/music/db-to-volume) - Free dB-to-amplitude and dB-to-power ratio calculations with logarithmic formulas; not loudness measurement, equipment calibration, or hearing-safety advice.
 - [REW](https://www.roomeqwizard.com/) - REW is free room acoustics analysis software for measuring and analysing room and loudspeaker responses. Free SMAART alternative.
 
 ## Video
